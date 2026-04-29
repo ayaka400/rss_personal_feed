@@ -12,7 +12,11 @@
       "https://qiita.com/chanse_____/items/635e2c6bb20b51117ae8",
       "https://qiita.com/kari_account/items/8bffb035102f578dae16",
       "https://qiita.com/kaku3/items/03ab8ebc8a2ef098e326",
-      "https://qiita.com/Haneoka/items/e35eec926e9e36d3ef0e"
+      "https://qiita.com/Haneoka/items/e35eec926e9e36d3ef0e",
+      "https://qiita.com/kai_kou/items/15cc61d95976068a658a",
+      "https://qiita.com/JUMP_IN/items/b031ff128ab9b149548c",
+      "https://qiita.com/katoriko/items/d3d6fa09e226999a6dd1",
+      "https://qiita.com/xiji2646/items/66a1077ce8cce9bc6a48"
     ],
     "python": [
       "https://qiita.com/sharu389no/items/dd5d524e35160dbe36fa",
@@ -26,7 +30,10 @@
       "https://qiita.com/cozy_666_tech/items/0a9b911d4846ea7346af",
       "https://qiita.com/agdexai/items/307fcaf9afc1e72fccb9",
       "https://qiita.com/kai_kou/items/3b21108e6dee744b99cc",
-      "https://qiita.com/nozomi2025/items/27a1455db34d55fdd366"
+      "https://qiita.com/nozomi2025/items/27a1455db34d55fdd366",
+      "https://qiita.com/m1_studyman/items/2856deee7b963610f241",
+      "https://qiita.com/yokamak/items/74c133a8f1d3254ae122",
+      "https://qiita.com/kai_kou/items/5fd5b1a67bbc79e35168"
     ],
     "aws": [
       "https://qiita.com/ktdatascience/items/d3fe01f989f30eded781",
@@ -40,7 +47,9 @@
       "https://qiita.com/techi-hira/items/b12996e570fc9fa6462a",
       "https://qiita.com/XYZXYZXYZ/items/ef1664aa69e85604840e",
       "https://qiita.com/takeda_h/items/89201d196e3f68ba3044",
-      "https://qiita.com/bonabase/items/a1889a617d1608881edc"
+      "https://qiita.com/bonabase/items/a1889a617d1608881edc",
+      "https://qiita.com/kai_kou/items/15cc61d95976068a658a",
+      "https://qiita.com/william-wen/items/5e3b666b0662066653d9"
     ],
     "個人開発": [
       "https://qiita.com/hiyokoko/items/47da0e4b909ba56cdae7",
@@ -53,7 +62,9 @@
       "https://qiita.com/teppei19980914/items/922eeebc8e720b3ebd1c",
       "https://qiita.com/chanse_____/items/635e2c6bb20b51117ae8",
       "https://qiita.com/fooddev24/items/a746eddf33845b71892f",
-      "https://qiita.com/kaku3/items/03ab8ebc8a2ef098e326"
+      "https://qiita.com/kaku3/items/03ab8ebc8a2ef098e326",
+      "https://qiita.com/sakutto-panda/items/1f822707c1ebab8482d8",
+      "https://qiita.com/dev-rabbit-mkt/items/2d84229cd62b38314ac9"
     ],
     "claude": [
       "https://qiita.com/ktdatascience/items/1decf8d4ec633a82258f",
@@ -67,7 +78,11 @@
       "https://qiita.com/Haneoka/items/e35eec926e9e36d3ef0e",
       "https://qiita.com/Java_Kobayashi/items/7d1ee30fe24c49173ca9",
       "https://qiita.com/nAotO01_03/items/caf992ecdcd8a4fbc244",
-      "https://qiita.com/minmin_doggo/items/13d8df0f8449ddd6c8ae"
+      "https://qiita.com/minmin_doggo/items/13d8df0f8449ddd6c8ae",
+      "https://qiita.com/stephen_appy/items/8bcaf76f414581614737",
+      "https://qiita.com/asahide/items/53cfdab083905fedeed5",
+      "https://qiita.com/kai_kou/items/15cc61d95976068a658a",
+      "https://qiita.com/JUMP_IN/items/b031ff128ab9b149548c"
     ],
     "flutter": [
       "https://qiita.com/tkosei2003/items/e192d4769dd55905e436",
@@ -84,13 +99,6 @@
   },
   "zenn": {
     "ai": [
-      "https://zenn.dev/mistudio/articles/geo_04_checklist",
-      "https://zenn.dev/mistudio/articles/daily_20260427_dynamic_20260427_5",
-      "https://zenn.dev/ikkainc/articles/38f0489905cf7d",
-      "https://zenn.dev/echigo/articles/ccced874047fd0",
-      "https://zenn.dev/st_little/articles/generate-logo-with-comfy-ui",
-      "https://zenn.dev/satoh_y_0323/articles/df43dc28ad0bfd",
-      "https://zenn.dev/youjinfox/articles/c71a2dff639209",
       "https://zenn.dev/como/articles/c67af584113744",
       "https://zenn.dev/gunma/articles/claude-code-multi-agent-parallel",
       "https://zenn.dev/sonicmoov/articles/d5b8b63be5af58",
@@ -123,7 +131,24 @@
       "https://zenn.dev/akuwano/articles/be0f33f66c790d",
       "https://zenn.dev/yossi7d8/articles/b47bf0e575bbbe",
       "https://zenn.dev/kanaria007/articles/78d706292d0968",
-      "https://zenn.dev/yamamvra/articles/e087797de3e098"
+      "https://zenn.dev/yamamvra/articles/e087797de3e098",
+      "https://zenn.dev/yassi/articles/949925d5456d5f",
+      "https://zenn.dev/yuma_learing/articles/claude-code-rag-skills-agent",
+      "https://zenn.dev/kodak_diary/articles/3b29c7c8bd5ac6",
+      "https://zenn.dev/purple_matsu1/articles/20260424-anthropic-skill-creator",
+      "https://zenn.dev/ojt/articles/claude-code-hallucination-fact-checking",
+      "https://zenn.dev/tkasamn0009/articles/586fb35eb8aca8",
+      "https://zenn.dev/mecharhythm/articles/bf4df65cbadb87",
+      "https://zenn.dev/mashharuki/articles/nearai_ironclaw-1",
+      "https://zenn.dev/moriki/articles/dc0eec25795b51",
+      "https://zenn.dev/keitayamamoto/articles/4c51e2e401ba9f",
+      "https://zenn.dev/zoetaka38/articles/80312bc083f277",
+      "https://zenn.dev/zoetaka38/articles/7a4bc15221d1b5",
+      "https://zenn.dev/zoetaka38/articles/535330c1e5ba88",
+      "https://zenn.dev/zoetaka38/articles/55bbc4ce96bce6",
+      "https://zenn.dev/zoetaka38/articles/82c630d860462f",
+      "https://zenn.dev/okaz/articles/copywriting-15-patterns-skill",
+      "https://zenn.dev/tomokusaba/articles/0c9df82e14ccf6"
     ],
     "python": [
       "https://zenn.dev/pincolo/articles/bcd05feaf1e8bc",
@@ -148,7 +173,21 @@
       "https://zenn.dev/mistudio/articles/daily_20260427_forced_postpilot_20260427",
       "https://zenn.dev/zoetaka38/articles/535330c1e5ba88",
       "https://zenn.dev/zoetaka38/articles/82c630d860462f",
-      "https://zenn.dev/ai_jidoka_lab/articles/zenn_bot_basics_20260425"
+      "https://zenn.dev/ai_jidoka_lab/articles/zenn_bot_basics_20260425",
+      "https://zenn.dev/datajournal1/articles/644baf7894be9c",
+      "https://zenn.dev/techquant/articles/external-api-silent-breakage",
+      "https://zenn.dev/agdexai/articles/deepseek-v4-agents-guide-2026",
+      "https://zenn.dev/wasurenamemo/articles/8a862cefc3f28e",
+      "https://zenn.dev/si_thu_tun/articles/2f9412db6ec017",
+      "https://zenn.dev/tamgo_tech/articles/04b54481b10fd7",
+      "https://zenn.dev/0h_n0/articles/fdf05c90ae9035",
+      "https://zenn.dev/qwerewq/articles/596dc78990dced",
+      "https://zenn.dev/kenimo49/articles/code-graph-refactoring-priority",
+      "https://zenn.dev/cool_crocus678/articles/tokyo-daytime-population-visualize",
+      "https://zenn.dev/cool_crocus678/articles/tokyo-daytime-population-preprocess",
+      "https://zenn.dev/cool_crocus678/articles/tokyo-daytime-population-hypothesis",
+      "https://zenn.dev/seoi/books/4ed4f5e8dcd089",
+      "https://zenn.dev/zoetaka38/articles/7a4bc15221d1b5"
     ],
     "aws": [
       "https://zenn.dev/atale/articles/aws-iam-best-practices-2026",
