@@ -76,23 +76,25 @@ def notify(message: str) -> bool:
 
 
 def process(service_key: str, message_template: str, feed_url: str,
-            username: str, state: State) -> None:
+            topic: str, state: State) -> None:
     urls = fetch_urls(feed_url)
-    known = state.setdefault(service_key, {}).setdefault(username, [])
+    known = state.setdefault(service_key, {}).setdefault(topic, [])
 
     if not known:
-        logger.info("First run for %s/%s — saving without notification", service_key, username)
+        logger.info("First run for %s/%s — notifying latest 5", service_key, topic)
         known.extend(urls)
+        for url in urls[:5]:
+            notify(message_template.format(topic=topic, url=url))
         return
 
     for url in urls:
         if url in known:
             continue
-        message = message_template.format(username=username, url=url)
+        message = message_template.format(topic=topic, url=url)
         if notify(message):
             known.append(url)
             if len(known) > MAX_URLS_PER_USER:
-                state[service_key][username] = known[-MAX_URLS_PER_USER:]
+                state[service_key][topic] = known[-MAX_URLS_PER_USER:]
 
 
 def main() -> None:
@@ -100,9 +102,9 @@ def main() -> None:
     state = load_state()
 
     for service in config.get("services", []):
-        for username in service.get("usernames", []):
-            feed_url = service["feed_url"].format(username=username)
-            process(service["key"], service["message"], feed_url, username, state)
+        for topic in service.get("topics", []):
+            feed_url = service["feed_url"].format(topic=topic)
+            process(service["key"], service["message"], feed_url, topic, state)
 
     save_state(state)
 

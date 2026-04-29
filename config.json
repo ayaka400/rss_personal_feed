@@ -3,16 +3,16 @@
     {
       "key": "qiita",
       "label": "Qiita",
-      "feed_url": "https://qiita.com/{username}/feed",
-      "message": "{username}がQiitaに新着記事を投稿しました\n{url}",
-      "usernames": ["masa20057"]
+      "feed_url": "https://qiita.com/tags/{topic}/feed",
+      "message": "Qiitaの「{topic}」に新着記事があります\n{url}",
+      "topics": ["ai", "python", "aws", "個人開発", "claude", "flutter", "ui"]
     },
     {
       "key": "zenn",
       "label": "Zenn",
-      "feed_url": "https://zenn.dev/{username}/feed",
-      "message": "{username}がZennに新着記事を投稿しました\n{url}",
-      "usernames": ["tomodo_ysys", "murota"]
+      "feed_url": "https://zenn.dev/topics/{topic}/feed",
+      "message": "Zennの「{topic}」に新着記事があります\n{url}",
+      "topics": ["ai", "python", "aws", "個人開発", "claude", "flutter", "ui", "appleintelligence"]
     }
   ]
 }
