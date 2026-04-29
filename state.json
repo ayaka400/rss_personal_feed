@@ -24,7 +24,9 @@
       "https://qiita.com/MarcyMarcy/items/6ba7496936ca7ed36f24",
       "https://qiita.com/daisuke-nagata/items/c872cafdfa59dba11191",
       "https://qiita.com/daishi0543/items/1407d9e3a3227d1e6850",
-      "https://qiita.com/xujfcn/items/188b0ade098d706a3bba"
+      "https://qiita.com/xujfcn/items/188b0ade098d706a3bba",
+      "https://qiita.com/RiriEnu-Lab/items/70954fa8e72837cf79ef",
+      "https://qiita.com/mguozhen/items/3728953ef429721c1d83"
     ],
     "python": [
       "https://qiita.com/sharu389no/items/dd5d524e35160dbe36fa",
@@ -49,7 +51,9 @@
       "https://qiita.com/shotakoyama/items/1d1bb534c52969431b51",
       "https://qiita.com/nozomi2025/items/f2be0badc4456fbf9ca1",
       "https://qiita.com/Enegent/items/d64a36c013c7e8daecd9",
-      "https://qiita.com/xujfcn/items/188b0ade098d706a3bba"
+      "https://qiita.com/xujfcn/items/188b0ade098d706a3bba",
+      "https://qiita.com/Elmo2358/items/8a3ed1d422d0cce98bb5",
+      "https://qiita.com/Elmo2358/items/b5011fc492ba46615671"
     ],
     "aws": [
       "https://qiita.com/ktdatascience/items/d3fe01f989f30eded781",
@@ -128,26 +132,6 @@
   },
   "zenn": {
     "ai": [
-      "https://zenn.dev/tottoko_hamu/articles/2026-04-27-215349",
-      "https://zenn.dev/isa_memoria/articles/a5e71d3a8a31d9",
-      "https://zenn.dev/kmryst/articles/ai-agent-github-flow-guardrails",
-      "https://zenn.dev/tkou15/articles/design-md-oss-features",
-      "https://zenn.dev/eitoatsuta/articles/bbcb507a8022cb",
-      "https://zenn.dev/hrmtz/articles/f850cde7082fac",
-      "https://zenn.dev/biscuit/articles/llm-wiki-context-rot-solution",
-      "https://zenn.dev/hiro51282/articles/346c1e5aa618ed",
-      "https://zenn.dev/hiyokoko/articles/6760a592c63bc5",
-      "https://zenn.dev/shomitei/articles/claude-desktop-filesystem-mcp",
-      "https://zenn.dev/tamgo_tech/articles/04b54481b10fd7",
-      "https://zenn.dev/kodak_diary/articles/d0f46c8887dae4",
-      "https://zenn.dev/shimo4228/articles/react-agent-business-quadrant",
-      "https://zenn.dev/keisuke_se/articles/f64a0e8cd5dd94",
-      "https://zenn.dev/pirafu/articles/3add89eac4b633",
-      "https://zenn.dev/0h_n0/articles/fdf05c90ae9035",
-      "https://zenn.dev/shinyay/books/getting-started-with-tokens",
-      "https://zenn.dev/shinyay/books/getting-started-with-tokens-en",
-      "https://zenn.dev/akuwano/articles/be0f33f66c790d",
-      "https://zenn.dev/yossi7d8/articles/b47bf0e575bbbe",
       "https://zenn.dev/kanaria007/articles/78d706292d0968",
       "https://zenn.dev/yamamvra/articles/e087797de3e098",
       "https://zenn.dev/yassi/articles/949925d5456d5f",
@@ -177,7 +161,27 @@
       "https://zenn.dev/miki_mini/articles/91ad9f535cb409",
       "https://zenn.dev/konto/articles/0bc16db7ca365b",
       "https://zenn.dev/su3_hokkaido/articles/2026-04-29_ai_team_management_tips",
-      "https://zenn.dev/bonabase/articles/2026-04-29-siem-alternative-for-smb"
+      "https://zenn.dev/bonabase/articles/2026-04-29-siem-alternative-for-smb",
+      "https://zenn.dev/haru0416/articles/5a5e83ffe5e78e",
+      "https://zenn.dev/pasimenan/articles/93079d75cde86b",
+      "https://zenn.dev/makocchan/articles/google_navigate_agentic_shift",
+      "https://zenn.dev/zoetaka38/articles/b3fff02d511b73",
+      "https://zenn.dev/iori_001/articles/gdscript4-strict-mode-7-traps",
+      "https://zenn.dev/lamb/articles/9ed211fd2830fd",
+      "https://zenn.dev/leiaiservice/articles/1b161288cf4584",
+      "https://zenn.dev/tempeso/articles/2ac3be6a933bb1",
+      "https://zenn.dev/haragames/articles/ai-generated-code-review-genspark",
+      "https://zenn.dev/linkedge/articles/27c38cdd9bedc6",
+      "https://zenn.dev/evolink/articles/00f9722c05272e",
+      "https://zenn.dev/hnokmim/articles/0bf209a998d414",
+      "https://zenn.dev/beckento/articles/b03f0bd8e28caa",
+      "https://zenn.dev/yurukusa/articles/5e339b71e7f0cc",
+      "https://zenn.dev/miyan/articles/claude-code-1m-context-design-update-2026",
+      "https://zenn.dev/einperience/articles/340854da492ca1",
+      "https://zenn.dev/kitepon/articles/spotter-release",
+      "https://zenn.dev/kofujimura/articles/cb37eeda32b8a1",
+      "https://zenn.dev/hrmtz/articles/d3f23e15354089",
+      "https://zenn.dev/qzira/articles/3025a8b508b7ea"
     ],
     "python": [
       "https://zenn.dev/pincolo/articles/bcd05feaf1e8bc",
