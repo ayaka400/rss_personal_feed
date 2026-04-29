@@ -2,7 +2,7 @@ name: RSS Feed Checker
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "50 * * * *"
   workflow_dispatch:
 
 jobs:
