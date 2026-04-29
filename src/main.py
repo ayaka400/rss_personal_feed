@@ -52,10 +52,10 @@ def save_state(state: State) -> None:
         logger.error("Failed to save state.json: %s", e)
 
 
-def fetch_urls(feed_url: str) -> list[str]:
+def fetch_entries(feed_url: str) -> list[tuple[str, str]]:
     try:
         feed = feedparser.parse(feed_url)
-        return [e.get("link", "") for e in feed.entries if e.get("link")]
+        return [(e.get("title", ""), e.get("link", "")) for e in feed.entries if e.get("link")]
     except Exception as e:
         logger.error("Error fetching feed %s: %s", feed_url, e)
         return []
@@ -77,20 +77,20 @@ def notify(message: str) -> bool:
 
 def process(service_key: str, message_template: str, feed_url: str,
             topic: str, state: State) -> None:
-    urls = fetch_urls(feed_url)
+    entries = fetch_entries(feed_url)
     known = state.setdefault(service_key, {}).setdefault(topic, [])
 
     if not known:
         logger.info("First run for %s/%s — notifying latest 5", service_key, topic)
-        known.extend(urls)
-        for url in urls[:5]:
-            notify(message_template.format(topic=topic, url=url))
+        known.extend([url for _, url in entries])
+        for title, url in entries[:5]:
+            notify(message_template.format(topic=topic, title=title, url=url))
         return
 
-    for url in urls:
+    for title, url in entries:
         if url in known:
             continue
-        message = message_template.format(topic=topic, url=url)
+        message = message_template.format(topic=topic, title=title, url=url)
         if notify(message):
             known.append(url)
             if len(known) > MAX_URLS_PER_USER:
