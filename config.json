@@ -1,0 +1,16 @@
+{
+  "services": [
+    {
+      "key": "qiita",
+      "label": "Qiita",
+      "feed_url": "https://qiita.com/{username}/feed",
+      "usernames": ["masa20057"]
+    },
+    {
+      "key": "zenn",
+      "label": "Zenn",
+      "feed_url": "https://zenn.dev/{username}/feed",
+      "usernames": ["tomodo_ysys", "murota"]
+    }
+  ]
+}
