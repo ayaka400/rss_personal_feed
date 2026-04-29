@@ -4,12 +4,14 @@
       "key": "qiita",
       "label": "Qiita",
       "feed_url": "https://qiita.com/{username}/feed",
+      "message": "{username}がQiitaに新着記事を投稿しました\n{url}",
       "usernames": ["masa20057"]
     },
     {
       "key": "zenn",
       "label": "Zenn",
       "feed_url": "https://zenn.dev/{username}/feed",
+      "message": "{username}がZennに新着記事を投稿しました\n{url}",
       "usernames": ["tomodo_ysys", "murota"]
     }
   ]

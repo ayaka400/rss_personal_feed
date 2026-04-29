@@ -1,17 +1,14 @@
 # RSS Personal Feed
 
 QiitaおよびZennの新着記事をSlackに自動通知するシステムです。
-GitHub Actionsで15分ごとに実行されます。
+GitHub Actionsで1時間ごとに実行されます。
 
 ## ディレクトリ構成
 
 ```
 .
 ├── src/
-│   ├── main.py       # エントリーポイント
-│   ├── rss.py        # RSSフェッチ
-│   ├── notifier.py   # Slack通知
-│   └── state.py      # 状態管理
+│   └── main.py       # 全処理
 ├── state.json        # 既読URL管理（自動更新）
 ├── config.json       # 監視ユーザー設定
 ├── requirements.txt
@@ -33,18 +30,27 @@ cd rss-personal-feed
 
 ```json
 {
-  "qiita": ["qiita_username"],
-  "zenn": ["zenn_username"]
+  "services": [
+    {
+      "key": "qiita",
+      "label": "Qiita",
+      "feed_url": "https://qiita.com/{username}/feed",
+      "usernames": ["qiita_username"]
+    },
+    {
+      "key": "zenn",
+      "label": "Zenn",
+      "feed_url": "https://zenn.dev/{username}/feed",
+      "usernames": ["zenn_username"]
+    }
+  ]
 }
 ```
 
 複数ユーザーも指定可能です。
 
 ```json
-{
-  "qiita": ["user1", "user2"],
-  "zenn": ["user3"]
-}
+"usernames": ["user1", "user2"]
 ```
 
 ### 3. Slack Webhook URLをシークレットに登録
@@ -70,7 +76,7 @@ python src/main.py
 
 | 項目 | 内容 |
 |------|------|
-| 実行間隔 | 15分ごと（GitHub Actions のスケジュール） |
+| 実行間隔 | 1時間ごと（GitHub Actions のスケジュール） |
 | 差分管理 | `state.json` に既読 URL を保存 |
 | 保持上限 | ユーザーごとに最新50件 |
 | 冪等性 | 同一記事の二重送信なし |
@@ -79,6 +85,6 @@ python src/main.py
 ## Slack通知フォーマット
 
 ```
-*[Qiita]* <記事URL|記事タイトル>
-投稿者: username
+Qiitaに新着記事があります
+https://qiita.com/...
 ```

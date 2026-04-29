@@ -61,14 +61,13 @@ def fetch_urls(feed_url: str) -> list[str]:
         return []
 
 
-def notify(service: str, url: str) -> bool:
+def notify(message: str) -> bool:
     webhook_url = os.environ.get("SLACK_WEBHOOK_URL", "")
     if not webhook_url:
         logger.error("SLACK_WEBHOOK_URL is not set")
         return False
     try:
-        text = f"{service}に新着記事があります\n{url}"
-        response = requests.post(webhook_url, json={"text": text}, timeout=10)
+        response = requests.post(webhook_url, json={"text": message}, timeout=10)
         response.raise_for_status()
         return True
     except requests.RequestException as e:
@@ -76,7 +75,7 @@ def notify(service: str, url: str) -> bool:
         return False
 
 
-def process(service_key: str, service_label: str, feed_url: str,
+def process(service_key: str, message_template: str, feed_url: str,
             username: str, state: State) -> None:
     urls = fetch_urls(feed_url)
     known = state.setdefault(service_key, {}).setdefault(username, [])
@@ -89,7 +88,8 @@ def process(service_key: str, service_label: str, feed_url: str,
     for url in urls:
         if url in known:
             continue
-        if notify(service_label, url):
+        message = message_template.format(username=username, url=url)
+        if notify(message):
             known.append(url)
             if len(known) > MAX_URLS_PER_USER:
                 state[service_key][username] = known[-MAX_URLS_PER_USER:]
@@ -102,7 +102,7 @@ def main() -> None:
     for service in config.get("services", []):
         for username in service.get("usernames", []):
             feed_url = service["feed_url"].format(username=username)
-            process(service["key"], service["label"], feed_url, username, state)
+            process(service["key"], service["message"], feed_url, username, state)
 
     save_state(state)
 
