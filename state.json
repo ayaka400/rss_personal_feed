@@ -1,1 +1,42 @@
-{}
+{
+  "qiita": {
+    "masa20057": [
+      "https://qiita.com/masa20057/items/3df8598b3ebaf1eb6888",
+      "https://qiita.com/masa20057/items/5144c0d01539ccd6a881",
+      "https://qiita.com/masa20057/items/acc90d24eb083dba9462",
+      "https://qiita.com/masa20057/items/73bd88b401ecab0cc4c5"
+    ]
+  },
+  "zenn": {
+    "tomodo_ysys": [
+      "https://zenn.dev/tomodo_ysys/articles/agent-dev-beyond-embedded-chat",
+      "https://zenn.dev/tomodo_ysys/articles/oauth-dynamic-client-registration-mcp",
+      "https://zenn.dev/tomodo_ysys/articles/llm-context-engineering-book-review",
+      "https://zenn.dev/tomodo_ysys/articles/claude-code-github-actions-tips",
+      "https://zenn.dev/tomodo_ysys/articles/oauth-pkce-security-guide",
+      "https://zenn.dev/tomodo_ysys/articles/mobile-dev-with-ai-agents",
+      "https://zenn.dev/tomodo_ysys/articles/azd-iac-pipeline-auto",
+      "https://zenn.dev/tomodo_ysys/articles/claude-code-voicevox-wsl-setup",
+      "https://zenn.dev/tomodo_ysys/articles/azure-ai-foundry-llm-tracing",
+      "https://zenn.dev/tomodo_ysys/articles/line-bot-cloudflare",
+      "https://zenn.dev/tomodo_ysys/articles/langchain-langgraph-book",
+      "https://zenn.dev/tomodo_ysys/articles/azure-audio-rag-sample",
+      "https://zenn.dev/tomodo_ysys/articles/langgraph-basic-elements",
+      "https://zenn.dev/tomodo_ysys/articles/prompty-introduction-and-usage",
+      "https://zenn.dev/tomodo_ysys/articles/azure-ai-search-langchain-rag",
+      "https://zenn.dev/tomodo_ysys/articles/openai-streaming-token-count",
+      "https://zenn.dev/tomodo_ysys/articles/line-azure-chatbot",
+      "https://zenn.dev/tomodo_ysys/articles/sql-server-local-setup-az-data-studio",
+      "https://zenn.dev/tomodo_ysys/articles/infra-ai-app-shift",
+      "https://zenn.dev/tomodo_ysys/articles/edinet-chatgpt-financial-report"
+    ],
+    "murota": [
+      "https://zenn.dev/murota/articles/920402f792e69b",
+      "https://zenn.dev/murota/articles/ea284b43981c37",
+      "https://zenn.dev/murota/articles/d2f3ca19e2e131",
+      "https://zenn.dev/murota/articles/f0efd8f8e5cd21",
+      "https://zenn.dev/murota/articles/da867c258484dc",
+      "https://zenn.dev/murota/articles/49e426559a6d56"
+    ]
+  }
+}
