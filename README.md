@@ -24,9 +24,9 @@ git clone https://github.com/your-org/rss-personal-feed.git
 cd rss-personal-feed
 ```
 
-### 2. 監視ユーザーを設定
+### 2. 監視トピックを設定
 
-[config.json](config.json) を編集し、通知したいユーザー名を指定します。
+[config.json](config.json) を編集し、通知したいトピックを指定します。
 
 ```json
 {
@@ -34,23 +34,25 @@ cd rss-personal-feed
     {
       "key": "qiita",
       "label": "Qiita",
-      "feed_url": "https://qiita.com/{username}/feed",
-      "usernames": ["qiita_username"]
+      "feed_url": "https://qiita.com/tags/{topic}/feed",
+      "message": "Qiitaの「{topic}」に新着記事があります\n{url}",
+      "topics": ["python", "typescript"]
     },
     {
       "key": "zenn",
       "label": "Zenn",
-      "feed_url": "https://zenn.dev/{username}/feed",
-      "usernames": ["zenn_username"]
+      "feed_url": "https://zenn.dev/topics/{topic}/feed",
+      "message": "Zennの「{topic}」に新着記事があります\n{url}",
+      "topics": ["python", "typescript"]
     }
   ]
 }
 ```
 
-複数ユーザーも指定可能です。
+複数トピックも指定可能です。
 
 ```json
-"usernames": ["user1", "user2"]
+"topics": ["python", "typescript", "ai"]
 ```
 
 ### 3. Slack Webhook URLをシークレットに登録
