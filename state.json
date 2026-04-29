@@ -31,7 +31,9 @@
       "https://qiita.com/mguozhen/items/eed96847283f321479f7",
       "https://qiita.com/tai0921/items/024b6201c37a8ff5cb50",
       "https://qiita.com/Tadashi_Kudo/items/ce29e76f94d3a0b64dac",
-      "https://qiita.com/ishisaka/items/7df880cd82612ffd1c41"
+      "https://qiita.com/ishisaka/items/7df880cd82612ffd1c41",
+      "https://qiita.com/moha0918_/items/6241bfa89543f382f375",
+      "https://qiita.com/umbreon-nu/items/0991052b91c3698fd4f5"
     ],
     "python": [
       "https://qiita.com/sharu389no/items/dd5d524e35160dbe36fa",
@@ -62,7 +64,11 @@
       "https://qiita.com/kuruta_syuntaro/items/efaeca45a5ae5521ba99",
       "https://qiita.com/camcam/items/9f294524522643bab75a",
       "https://qiita.com/etale_cohomology/items/86002e264edfdef3dbcb",
-      "https://qiita.com/cozy_666_tech/items/e336879a7b60ce808f9a"
+      "https://qiita.com/cozy_666_tech/items/e336879a7b60ce808f9a",
+      "https://qiita.com/toolstudio22/items/9142e0ef54dcb58f1854",
+      "https://qiita.com/yoshiyuki_kono/items/0d396be776e88645fd52",
+      "https://qiita.com/yoshiyuki_kono/items/abb26a9fd5448870f068",
+      "https://qiita.com/yoshiyuki_kono/items/3d0c80d8addcf0557837"
     ],
     "aws": [
       "https://qiita.com/ktdatascience/items/d3fe01f989f30eded781",
@@ -123,7 +129,8 @@
       "https://qiita.com/kai_kou/items/15cc61d95976068a658a",
       "https://qiita.com/JUMP_IN/items/b031ff128ab9b149548c",
       "https://qiita.com/daisuke-nagata/items/c872cafdfa59dba11191",
-      "https://qiita.com/y_catch/items/70fd9324a4e3eeb254d5"
+      "https://qiita.com/y_catch/items/70fd9324a4e3eeb254d5",
+      "https://qiita.com/moha0918_/items/6241bfa89543f382f375"
     ],
     "flutter": [
       "https://qiita.com/tkosei2003/items/e192d4769dd55905e436",
@@ -312,7 +319,8 @@
       "https://zenn.dev/ken109/articles/fluxlay-philosophy-live-wallpaper",
       "https://zenn.dev/leiaiservice/articles/1b161288cf4584",
       "https://zenn.dev/p_jzd/articles/a95f4eec02a79f",
-      "https://zenn.dev/joemike/articles/indie-dev-free-to-paid-conversion-design-2026"
+      "https://zenn.dev/joemike/articles/indie-dev-free-to-paid-conversion-design-2026",
+      "https://zenn.dev/yt3trees/articles/github-copilot-cli-project-context"
     ],
     "claude": [
       "https://zenn.dev/enaga7561/articles/3bd55b1def1e48",
