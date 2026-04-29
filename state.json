@@ -26,7 +26,10 @@
       "https://qiita.com/daishi0543/items/1407d9e3a3227d1e6850",
       "https://qiita.com/xujfcn/items/188b0ade098d706a3bba",
       "https://qiita.com/RiriEnu-Lab/items/70954fa8e72837cf79ef",
-      "https://qiita.com/mguozhen/items/3728953ef429721c1d83"
+      "https://qiita.com/mguozhen/items/3728953ef429721c1d83",
+      "https://qiita.com/mguozhen/items/874d101aa108efe60c09",
+      "https://qiita.com/mguozhen/items/eed96847283f321479f7",
+      "https://qiita.com/tai0921/items/024b6201c37a8ff5cb50"
     ],
     "python": [
       "https://qiita.com/sharu389no/items/dd5d524e35160dbe36fa",
@@ -53,7 +56,8 @@
       "https://qiita.com/Enegent/items/d64a36c013c7e8daecd9",
       "https://qiita.com/xujfcn/items/188b0ade098d706a3bba",
       "https://qiita.com/Elmo2358/items/8a3ed1d422d0cce98bb5",
-      "https://qiita.com/Elmo2358/items/b5011fc492ba46615671"
+      "https://qiita.com/Elmo2358/items/b5011fc492ba46615671",
+      "https://qiita.com/kuruta_syuntaro/items/efaeca45a5ae5521ba99"
     ],
     "aws": [
       "https://qiita.com/ktdatascience/items/d3fe01f989f30eded781",
@@ -132,7 +136,6 @@
   },
   "zenn": {
     "ai": [
-      "https://zenn.dev/kanaria007/articles/78d706292d0968",
       "https://zenn.dev/yamamvra/articles/e087797de3e098",
       "https://zenn.dev/yassi/articles/949925d5456d5f",
       "https://zenn.dev/yuma_learing/articles/claude-code-rag-skills-agent",
@@ -181,7 +184,8 @@
       "https://zenn.dev/kitepon/articles/spotter-release",
       "https://zenn.dev/kofujimura/articles/cb37eeda32b8a1",
       "https://zenn.dev/hrmtz/articles/d3f23e15354089",
-      "https://zenn.dev/qzira/articles/3025a8b508b7ea"
+      "https://zenn.dev/qzira/articles/3025a8b508b7ea",
+      "https://zenn.dev/kitepon/articles/caveat-release"
     ],
     "python": [
       "https://zenn.dev/pincolo/articles/bcd05feaf1e8bc",
@@ -251,7 +255,14 @@
       "https://zenn.dev/dress_code/articles/aws-batch-fair-share",
       "https://zenn.dev/zoetaka38/articles/6bd23b24d6aeff",
       "https://zenn.dev/bonabase/articles/2026-04-29-siem-alternative-for-smb",
-      "https://zenn.dev/aws_japan/articles/aws-bedrock-claude-desktop-vpn"
+      "https://zenn.dev/aws_japan/articles/aws-bedrock-claude-desktop-vpn",
+      "https://zenn.dev/kameoncloud/articles/73e231021037d5",
+      "https://zenn.dev/marube23/articles/1210c1d74a66ed",
+      "https://zenn.dev/miztch/articles/ecs-taskdef-ignore-changes",
+      "https://zenn.dev/nondescript/articles/7e06002bf3c85d",
+      "https://zenn.dev/fukagawahorumon/articles/b32fd0f9a93732",
+      "https://zenn.dev/oz006/articles/aebd606c6e06d6",
+      "https://zenn.dev/yamadatt/articles/20260429_ecs_ssm_access_denied"
     ],
     "個人開発": [
       "https://zenn.dev/kazuki_tam/articles/a9a037210b1d60",
@@ -293,7 +304,9 @@
       "https://zenn.dev/ettomio0518/articles/e0728269a1c209",
       "https://zenn.dev/chiriai56/articles/6d7628140140ff",
       "https://zenn.dev/ken109/articles/fluxlay-philosophy-live-wallpaper",
-      "https://zenn.dev/leiaiservice/articles/1b161288cf4584"
+      "https://zenn.dev/leiaiservice/articles/1b161288cf4584",
+      "https://zenn.dev/p_jzd/articles/a95f4eec02a79f",
+      "https://zenn.dev/joemike/articles/indie-dev-free-to-paid-conversion-design-2026"
     ],
     "claude": [
       "https://zenn.dev/enaga7561/articles/3bd55b1def1e48",
