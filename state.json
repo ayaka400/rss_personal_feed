@@ -20,7 +20,10 @@
       "https://qiita.com/kameyamandaaa/items/daf57d2f99d377a5ffee",
       "https://qiita.com/nozomi2025/items/d81ab9864ca166096f49",
       "https://qiita.com/whitemarshall/items/91f549849e3cfa86d455",
-      "https://qiita.com/yuki-y15/items/ede3ae1c99d947c6a4e2"
+      "https://qiita.com/yuki-y15/items/ede3ae1c99d947c6a4e2",
+      "https://qiita.com/MarcyMarcy/items/6ba7496936ca7ed36f24",
+      "https://qiita.com/daisuke-nagata/items/c872cafdfa59dba11191",
+      "https://qiita.com/daishi0543/items/1407d9e3a3227d1e6850"
     ],
     "python": [
       "https://qiita.com/sharu389no/items/dd5d524e35160dbe36fa",
@@ -40,7 +43,11 @@
       "https://qiita.com/kai_kou/items/5fd5b1a67bbc79e35168",
       "https://qiita.com/yonaka15/items/ab1bb3c72ca2446a9bec",
       "https://qiita.com/agdexai/items/45a2b971689765b98946",
-      "https://qiita.com/agdexai/items/aa9e69908850073855ea"
+      "https://qiita.com/agdexai/items/aa9e69908850073855ea",
+      "https://qiita.com/CookieBox26/items/81d857b30d670b22f3e0",
+      "https://qiita.com/shotakoyama/items/1d1bb534c52969431b51",
+      "https://qiita.com/nozomi2025/items/f2be0badc4456fbf9ca1",
+      "https://qiita.com/Enegent/items/d64a36c013c7e8daecd9"
     ],
     "aws": [
       "https://qiita.com/ktdatascience/items/d3fe01f989f30eded781",
@@ -60,7 +67,8 @@
       "https://qiita.com/j_mori/items/84e426e37fb97eb93ad3",
       "https://qiita.com/similarmetal/items/37919e92404294f32426",
       "https://qiita.com/koutorino/items/77d11978669ecfd163c5",
-      "https://qiita.com/horumon_fukagawa/items/52762ab33987e269bc60"
+      "https://qiita.com/horumon_fukagawa/items/52762ab33987e269bc60",
+      "https://qiita.com/yama3133/items/571fa98ce4c0261f2227"
     ],
     "個人開発": [
       "https://qiita.com/hiyokoko/items/47da0e4b909ba56cdae7",
@@ -96,7 +104,9 @@
       "https://qiita.com/stephen_appy/items/8bcaf76f414581614737",
       "https://qiita.com/asahide/items/53cfdab083905fedeed5",
       "https://qiita.com/kai_kou/items/15cc61d95976068a658a",
-      "https://qiita.com/JUMP_IN/items/b031ff128ab9b149548c"
+      "https://qiita.com/JUMP_IN/items/b031ff128ab9b149548c",
+      "https://qiita.com/daisuke-nagata/items/c872cafdfa59dba11191",
+      "https://qiita.com/y_catch/items/70fd9324a4e3eeb254d5"
     ],
     "flutter": [
       "https://qiita.com/tkosei2003/items/e192d4769dd55905e436",
@@ -114,17 +124,6 @@
   },
   "zenn": {
     "ai": [
-      "https://zenn.dev/como/articles/c67af584113744",
-      "https://zenn.dev/gunma/articles/claude-code-multi-agent-parallel",
-      "https://zenn.dev/sonicmoov/articles/d5b8b63be5af58",
-      "https://zenn.dev/kazuki_tam/articles/a9a037210b1d60",
-      "https://zenn.dev/areyoudesk/articles/37168c254ae6d2",
-      "https://zenn.dev/lumichy/articles/free-llm-providers-agent-2026",
-      "https://zenn.dev/ykohashi/articles/2026-04-28_01",
-      "https://zenn.dev/dantarg/articles/fixed-responsibility-to-pathway",
-      "https://zenn.dev/tomokusaba/articles/f5b1fec95dab79",
-      "https://zenn.dev/asagezenn/articles/b827be281ff2cd",
-      "https://zenn.dev/docbrown/articles/e1c7291f39a651",
       "https://zenn.dev/tottoko_hamu/articles/2026-04-27-215349",
       "https://zenn.dev/isa_memoria/articles/a5e71d3a8a31d9",
       "https://zenn.dev/kmryst/articles/ai-agent-github-flow-guardrails",
@@ -163,7 +162,18 @@
       "https://zenn.dev/zoetaka38/articles/55bbc4ce96bce6",
       "https://zenn.dev/zoetaka38/articles/82c630d860462f",
       "https://zenn.dev/okaz/articles/copywriting-15-patterns-skill",
-      "https://zenn.dev/tomokusaba/articles/0c9df82e14ccf6"
+      "https://zenn.dev/tomokusaba/articles/0c9df82e14ccf6",
+      "https://zenn.dev/fumofumo3/articles/14-blueprint-of-fiction",
+      "https://zenn.dev/kai_kou/articles/201-cursor-3-agent-first-ide-guide",
+      "https://zenn.dev/west_river/articles/antigravity-diagram-workflow-skill",
+      "https://zenn.dev/konto/articles/27289b54f5b896",
+      "https://zenn.dev/53able/articles/c70409cf43ac4f",
+      "https://zenn.dev/isa_memoria/articles/60adeea6896d72",
+      "https://zenn.dev/iwakicyan/articles/9186573dbe4492",
+      "https://zenn.dev/miki_mini/articles/91ad9f535cb409",
+      "https://zenn.dev/konto/articles/0bc16db7ca365b",
+      "https://zenn.dev/su3_hokkaido/articles/2026-04-29_ai_team_management_tips",
+      "https://zenn.dev/bonabase/articles/2026-04-29-siem-alternative-for-smb"
     ],
     "python": [
       "https://zenn.dev/pincolo/articles/bcd05feaf1e8bc",
@@ -202,7 +212,12 @@
       "https://zenn.dev/cool_crocus678/articles/tokyo-daytime-population-preprocess",
       "https://zenn.dev/cool_crocus678/articles/tokyo-daytime-population-hypothesis",
       "https://zenn.dev/seoi/books/4ed4f5e8dcd089",
-      "https://zenn.dev/zoetaka38/articles/7a4bc15221d1b5"
+      "https://zenn.dev/zoetaka38/articles/7a4bc15221d1b5",
+      "https://zenn.dev/tkithrta/articles/94a8f36f1543e0",
+      "https://zenn.dev/akito1212/articles/6d6852f6ee43e3",
+      "https://zenn.dev/greensmile/articles/40e58125b78606",
+      "https://zenn.dev/kobaken2629/articles/2026-04-14-zenn",
+      "https://zenn.dev/syunotaku/articles/9fdc6940ab834d"
     ],
     "aws": [
       "https://zenn.dev/atale/articles/aws-iam-best-practices-2026",
@@ -226,7 +241,8 @@
       "https://zenn.dev/tosshi/articles/21df66f8c90e9f",
       "https://zenn.dev/ytaniyamadev/articles/675e14b2c2e88f",
       "https://zenn.dev/dress_code/articles/aws-batch-fair-share",
-      "https://zenn.dev/zoetaka38/articles/6bd23b24d6aeff"
+      "https://zenn.dev/zoetaka38/articles/6bd23b24d6aeff",
+      "https://zenn.dev/bonabase/articles/2026-04-29-siem-alternative-for-smb"
     ],
     "個人開発": [
       "https://zenn.dev/kazuki_tam/articles/a9a037210b1d60",
@@ -267,7 +283,8 @@
       "https://zenn.dev/466548/articles/tetsudori-snap-game-experience-01",
       "https://zenn.dev/ettomio0518/articles/e0728269a1c209",
       "https://zenn.dev/chiriai56/articles/6d7628140140ff",
-      "https://zenn.dev/ken109/articles/fluxlay-philosophy-live-wallpaper"
+      "https://zenn.dev/ken109/articles/fluxlay-philosophy-live-wallpaper",
+      "https://zenn.dev/leiaiservice/articles/1b161288cf4584"
     ],
     "claude": [
       "https://zenn.dev/enaga7561/articles/3bd55b1def1e48",
@@ -309,7 +326,12 @@
       "https://zenn.dev/hrmtz/articles/d3f23e15354089",
       "https://zenn.dev/kuyan/articles/c886db085ed026",
       "https://zenn.dev/iwakicyan/articles/9186573dbe4492",
-      "https://zenn.dev/kompasskompass/articles/978aa6d163ba66"
+      "https://zenn.dev/kompasskompass/articles/978aa6d163ba66",
+      "https://zenn.dev/linkedge/articles/27c38cdd9bedc6",
+      "https://zenn.dev/evolink/articles/00f9722c05272e",
+      "https://zenn.dev/hnokmim/articles/0bf209a998d414",
+      "https://zenn.dev/noye_dev/articles/4036d290166bb5",
+      "https://zenn.dev/kuyan/articles/44c6b50b7f416d"
     ],
     "flutter": [
       "https://zenn.dev/ihasq/articles/5274d5e0001c7d",
