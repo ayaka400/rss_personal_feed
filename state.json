@@ -1,7 +1,6 @@
 {
   "qiita": {
     "ai": [
-      "https://qiita.com/Haneoka/items/e35eec926e9e36d3ef0e",
       "https://qiita.com/kai_kou/items/15cc61d95976068a658a",
       "https://qiita.com/JUMP_IN/items/b031ff128ab9b149548c",
       "https://qiita.com/katoriko/items/d3d6fa09e226999a6dd1",
@@ -50,7 +49,8 @@
       "https://qiita.com/yurukusa/items/b4423b0e255b7604942d",
       "https://qiita.com/kenji-ai-match/items/733744ecb4ab27ddfb44",
       "https://qiita.com/trailfusion_ai/items/c8604bc73aac4b12d5c4",
-      "https://qiita.com/yuji-arakawa/items/9e7235e708e2b33e58e6"
+      "https://qiita.com/yuji-arakawa/items/9e7235e708e2b33e58e6",
+      "https://qiita.com/sata_917/items/f2f6452cbbd777589b44"
     ],
     "python": [
       "https://qiita.com/agdexai/items/307fcaf9afc1e72fccb9",
@@ -179,7 +179,8 @@
       "https://qiita.com/ishikawahijiri/items/0eff1488f7af08dbf474",
       "https://qiita.com/picky07/items/8006584885bb0334a79c",
       "https://qiita.com/MY_1217/items/d136b3e241f90530fc07",
-      "https://qiita.com/dev-rabbit-mkt/items/d9efb3b39933511636d3"
+      "https://qiita.com/dev-rabbit-mkt/items/d9efb3b39933511636d3",
+      "https://qiita.com/DevMasatoman/items/434d395d1a40ef971b44"
     ],
     "claude": [
       "https://qiita.com/ktdatascience/items/1decf8d4ec633a82258f",
