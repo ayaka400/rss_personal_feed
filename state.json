@@ -1,10 +1,6 @@
 {
   "qiita": {
     "ai": [
-      "https://qiita.com/su3-hokkaido/items/a115f55a7e2426ea76a2",
-      "https://qiita.com/chanse_____/items/635e2c6bb20b51117ae8",
-      "https://qiita.com/kari_account/items/8bffb035102f578dae16",
-      "https://qiita.com/kaku3/items/03ab8ebc8a2ef098e326",
       "https://qiita.com/Haneoka/items/e35eec926e9e36d3ef0e",
       "https://qiita.com/kai_kou/items/15cc61d95976068a658a",
       "https://qiita.com/JUMP_IN/items/b031ff128ab9b149548c",
@@ -50,13 +46,13 @@
       "https://qiita.com/origami_goldeen/items/1e0db5ab465d34566073",
       "https://qiita.com/hibiki_hangai/items/341a5c52a810b3d0b7e4",
       "https://qiita.com/shii__zuk2/items/5136f104d6184e8852a3",
-      "https://qiita.com/Kaguya_25/items/90f4a039fcc48b102cae"
+      "https://qiita.com/Kaguya_25/items/90f4a039fcc48b102cae",
+      "https://qiita.com/yurukusa/items/b4423b0e255b7604942d",
+      "https://qiita.com/kenji-ai-match/items/733744ecb4ab27ddfb44",
+      "https://qiita.com/trailfusion_ai/items/c8604bc73aac4b12d5c4",
+      "https://qiita.com/yuji-arakawa/items/9e7235e708e2b33e58e6"
     ],
     "python": [
-      "https://qiita.com/agdexai/items/8e479c9620d560ae1146",
-      "https://qiita.com/DS_kame9/items/8e6afaf66df6dc9267d0",
-      "https://qiita.com/Jackylammmm/items/be4d3df295f9e7649df7",
-      "https://qiita.com/cozy_666_tech/items/0a9b911d4846ea7346af",
       "https://qiita.com/agdexai/items/307fcaf9afc1e72fccb9",
       "https://qiita.com/kai_kou/items/3b21108e6dee744b99cc",
       "https://qiita.com/nozomi2025/items/27a1455db34d55fdd366",
@@ -102,7 +98,11 @@
       "https://qiita.com/nao-United92/items/725525e80f5519bd0145",
       "https://qiita.com/ne230025/items/bb8841c6273540b9c505",
       "https://qiita.com/konagamitsu1982/items/9c90586d199fd3e1407b",
-      "https://qiita.com/cycloawaodorin/items/84ed2f3db818053e3795"
+      "https://qiita.com/cycloawaodorin/items/84ed2f3db818053e3795",
+      "https://qiita.com/MY_1217/items/d136b3e241f90530fc07",
+      "https://qiita.com/shoutaro/items/c47e232ce8f3b8252208",
+      "https://qiita.com/kari_account/items/7b91678c499c2a8d44a8",
+      "https://qiita.com/faunsu/items/4dc4dfdf9974fbb95eaf"
     ],
     "aws": [
       "https://qiita.com/ktdatascience/items/d3fe01f989f30eded781",
@@ -176,7 +176,10 @@
       "https://qiita.com/udon_ds/items/f074e4fdeca413c0b2f4",
       "https://qiita.com/Hiruge/items/292aacde0cfbf36b4117",
       "https://qiita.com/teppei19980914/items/95159a53818a2f3be90c",
-      "https://qiita.com/ishikawahijiri/items/0eff1488f7af08dbf474"
+      "https://qiita.com/ishikawahijiri/items/0eff1488f7af08dbf474",
+      "https://qiita.com/picky07/items/8006584885bb0334a79c",
+      "https://qiita.com/MY_1217/items/d136b3e241f90530fc07",
+      "https://qiita.com/dev-rabbit-mkt/items/d9efb3b39933511636d3"
     ],
     "claude": [
       "https://qiita.com/ktdatascience/items/1decf8d4ec633a82258f",
@@ -211,7 +214,8 @@
       "https://qiita.com/origami_goldeen/items/1e0db5ab465d34566073",
       "https://qiita.com/news_it_enj/items/c744ef04a11acda1e554",
       "https://qiita.com/shii__zuk2/items/5136f104d6184e8852a3",
-      "https://qiita.com/toarusyakaijin/items/08191883db601b89b2c5"
+      "https://qiita.com/toarusyakaijin/items/08191883db601b89b2c5",
+      "https://qiita.com/trailfusion_ai/items/c8604bc73aac4b12d5c4"
     ],
     "flutter": [
       "https://qiita.com/tkosei2003/items/e192d4769dd55905e436",
@@ -335,7 +339,6 @@
       "https://zenn.dev/aikyxdanl/articles/raspberry-pi-claude-api-guide-1"
     ],
     "aws": [
-      "https://zenn.dev/haragames/articles/aws-github-actions-cicd-trivy-dependabot",
       "https://zenn.dev/yooshima/articles/70af97128dc2c4",
       "https://zenn.dev/keino/articles/c4c61355248838",
       "https://zenn.dev/maroon_54321/articles/259fd273c91f4f",
@@ -384,7 +387,8 @@
       "https://zenn.dev/desiennz/articles/2026-04-30-saa",
       "https://zenn.dev/okazu_dm/articles/7d30c496c8fbb6",
       "https://zenn.dev/tai_chii_dev/articles/283c3690595c74",
-      "https://zenn.dev/k0na/articles/d92f2e3764660e"
+      "https://zenn.dev/k0na/articles/d92f2e3764660e",
+      "https://zenn.dev/atale/articles/aws-iam-best-practices-2026"
     ],
     "個人開発": [
       "https://zenn.dev/sktt_panda/articles/zenn-qiita-cross-post-automation",
