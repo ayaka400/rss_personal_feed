@@ -236,7 +236,6 @@
   },
   "zenn": {
     "ai": [
-      "https://zenn.dev/dxclab/articles/6c4672f3d6fbd0",
       "https://zenn.dev/zephel01/articles/78fc3898a32697",
       "https://zenn.dev/acropapa330/articles/fpga_ai_phase1",
       "https://zenn.dev/dely_jp/articles/383b2d538fad56",
@@ -285,7 +284,8 @@
       "https://zenn.dev/leading_ai/articles/b7401e12d5220b",
       "https://zenn.dev/mecharhythm/articles/dde20a7d085506",
       "https://zenn.dev/yukikato/articles/enterprise-ai-aws-vs-azure",
-      "https://zenn.dev/cscloud_blog/articles/72c9da375ab87c"
+      "https://zenn.dev/cscloud_blog/articles/72c9da375ab87c",
+      "https://zenn.dev/greensmile/articles/07e8bd73e34d82"
     ],
     "python": [
       "https://zenn.dev/nogu_d626/articles/a16afc810bebd0",
