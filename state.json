@@ -53,7 +53,6 @@
       "https://qiita.com/sata_917/items/f2f6452cbbd777589b44"
     ],
     "python": [
-      "https://qiita.com/agdexai/items/307fcaf9afc1e72fccb9",
       "https://qiita.com/kai_kou/items/3b21108e6dee744b99cc",
       "https://qiita.com/nozomi2025/items/27a1455db34d55fdd366",
       "https://qiita.com/m1_studyman/items/2856deee7b963610f241",
@@ -102,7 +101,8 @@
       "https://qiita.com/MY_1217/items/d136b3e241f90530fc07",
       "https://qiita.com/shoutaro/items/c47e232ce8f3b8252208",
       "https://qiita.com/kari_account/items/7b91678c499c2a8d44a8",
-      "https://qiita.com/faunsu/items/4dc4dfdf9974fbb95eaf"
+      "https://qiita.com/faunsu/items/4dc4dfdf9974fbb95eaf",
+      "https://qiita.com/embermaverick05/items/a67465b981a0947dd287"
     ],
     "aws": [
       "https://qiita.com/ktdatascience/items/d3fe01f989f30eded781",
@@ -236,26 +236,6 @@
   },
   "zenn": {
     "ai": [
-      "https://zenn.dev/zoetaka38/articles/b3fff02d511b73",
-      "https://zenn.dev/iori_001/articles/gdscript4-strict-mode-7-traps",
-      "https://zenn.dev/lamb/articles/9ed211fd2830fd",
-      "https://zenn.dev/leiaiservice/articles/1b161288cf4584",
-      "https://zenn.dev/tempeso/articles/2ac3be6a933bb1",
-      "https://zenn.dev/haragames/articles/ai-generated-code-review-genspark",
-      "https://zenn.dev/linkedge/articles/27c38cdd9bedc6",
-      "https://zenn.dev/evolink/articles/00f9722c05272e",
-      "https://zenn.dev/hnokmim/articles/0bf209a998d414",
-      "https://zenn.dev/beckento/articles/b03f0bd8e28caa",
-      "https://zenn.dev/yurukusa/articles/5e339b71e7f0cc",
-      "https://zenn.dev/miyan/articles/claude-code-1m-context-design-update-2026",
-      "https://zenn.dev/einperience/articles/340854da492ca1",
-      "https://zenn.dev/kitepon/articles/spotter-release",
-      "https://zenn.dev/kofujimura/articles/cb37eeda32b8a1",
-      "https://zenn.dev/hrmtz/articles/d3f23e15354089",
-      "https://zenn.dev/qzira/articles/3025a8b508b7ea",
-      "https://zenn.dev/kitepon/articles/caveat-release",
-      "https://zenn.dev/ainohogosya/articles/386a02f7d7a32a",
-      "https://zenn.dev/pfj_cs/articles/ea45bc6509bff6",
       "https://zenn.dev/dxclab/articles/6c4672f3d6fbd0",
       "https://zenn.dev/zephel01/articles/78fc3898a32697",
       "https://zenn.dev/acropapa330/articles/fpga_ai_phase1",
@@ -285,7 +265,27 @@
       "https://zenn.dev/ncdc/articles/fe8ef16cef8614",
       "https://zenn.dev/nexta_/articles/904d006655626f",
       "https://zenn.dev/dely_jp/articles/14989d62a963c3",
-      "https://zenn.dev/shin_agent/articles/claude-discovery-2026-04-17"
+      "https://zenn.dev/shin_agent/articles/claude-discovery-2026-04-17",
+      "https://zenn.dev/syoshida07/articles/8aead4c62c874c",
+      "https://zenn.dev/sway/articles/ai_product_sleepswitcher",
+      "https://zenn.dev/znet/articles/20260430_personal-biz-network-construction",
+      "https://zenn.dev/daiksud/articles/harness-engineering-not-only-for-ai",
+      "https://zenn.dev/wisevine/articles/1265fd3cfbd1c6",
+      "https://zenn.dev/naohiro_qa/articles/5ef551cc17bd8c",
+      "https://zenn.dev/matsukenn_am/articles/2c7b0202fbcaff",
+      "https://zenn.dev/code_n_roll/articles/366b48611f7131",
+      "https://zenn.dev/isa_memoria/articles/742e5d4f846969",
+      "https://zenn.dev/shoya_goto/articles/mcp-server-from-scratch",
+      "https://zenn.dev/factory_dx_eng/articles/dx-causal-map",
+      "https://zenn.dev/kodak_diary/articles/06d61496b4e5da",
+      "https://zenn.dev/tigerone1945/articles/e0f4fcba591fb2",
+      "https://zenn.dev/hrmtz/articles/27b2f5ff51f197",
+      "https://zenn.dev/chimao222/articles/ai-dev-devin-2-2-dena-20260430",
+      "https://zenn.dev/53able/articles/38ad3dc3c034e4",
+      "https://zenn.dev/leading_ai/articles/b7401e12d5220b",
+      "https://zenn.dev/mecharhythm/articles/dde20a7d085506",
+      "https://zenn.dev/yukikato/articles/enterprise-ai-aws-vs-azure",
+      "https://zenn.dev/cscloud_blog/articles/72c9da375ab87c"
     ],
     "python": [
       "https://zenn.dev/nogu_d626/articles/a16afc810bebd0",
