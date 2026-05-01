@@ -157,8 +157,6 @@
       "https://qiita.com/donghyun95/items/08a81a712befcb593d7e"
     ],
     "個人開発": [
-      "https://qiita.com/ettomio0518/items/3d9ada81f95a922e1c55",
-      "https://qiita.com/emptybaba/items/1d1adf298820d78f1e61",
       "https://qiita.com/KuwadaKouhei/items/47e0c2e453b8a0245cf6",
       "https://qiita.com/ocean6954/items/86bb60f23719deed683f",
       "https://qiita.com/yoshiototora/items/59c794ee526122f8b616",
@@ -206,7 +204,9 @@
       "https://qiita.com/toriaiapp/items/3bca8ba4bbf7aa845e76",
       "https://qiita.com/1206-1204-777/items/dcc5cb9e120962fee41c",
       "https://qiita.com/DevMasatoman/items/f83963fd91e93f9bd3e4",
-      "https://qiita.com/totetero/items/64a49366600b015a88a3"
+      "https://qiita.com/totetero/items/64a49366600b015a88a3",
+      "https://qiita.com/doc_lab/items/e1f6d4c9c231b9085d5a",
+      "https://qiita.com/dev-rabbit-mkt/items/398536f7fab490ad2ebc"
     ],
     "claude": [
       "https://qiita.com/ktdatascience/items/1decf8d4ec633a82258f",
@@ -281,9 +281,6 @@
   },
   "zenn": {
     "ai": [
-      "https://zenn.dev/nattosystem_jp/articles/07cedad82a2081",
-      "https://zenn.dev/nyanmaru/articles/7b2e1342a5126b",
-      "https://zenn.dev/haboshi/articles/ai-coding-runtime-design",
       "https://zenn.dev/kodak_diary/articles/3ecc307b9da27b",
       "https://zenn.dev/kodak_diary/articles/8fb30c071e9752",
       "https://zenn.dev/zennai_ryutaro/articles/20260501-pu-sh-coding-agent",
@@ -330,7 +327,10 @@
       "https://zenn.dev/hvala/articles/fce6df4b8fd970",
       "https://zenn.dev/matsukenn_am/articles/24facb19a3e620",
       "https://zenn.dev/ryu_takatsukasa/books/ae6557e79c6aaf",
-      "https://zenn.dev/dataheroes/articles/20260502_snowflake_2026q1"
+      "https://zenn.dev/dataheroes/articles/20260502_snowflake_2026q1",
+      "https://zenn.dev/yushiyamamoto/articles/3bbee33247666e",
+      "https://zenn.dev/zephel01/articles/ef9765424ad875",
+      "https://zenn.dev/tomo27/articles/se-ai-coexistence-04"
     ],
     "python": [
       "https://zenn.dev/cool_crocus678/articles/tokyo-daytime-population-preprocess",
@@ -437,8 +437,6 @@
       "https://zenn.dev/rsugi/articles/9039bf10184c46"
     ],
     "個人開発": [
-      "https://zenn.dev/hiyokoko/articles/6760a592c63bc5",
-      "https://zenn.dev/asobu/articles/40ba7f1989950d",
       "https://zenn.dev/taketsuyo/articles/36ba7a8efbd202",
       "https://zenn.dev/sktt_panda/articles/panda-tools-adsense-rejection-2nd",
       "https://zenn.dev/tkasamn0009/articles/586fb35eb8aca8",
@@ -486,10 +484,11 @@
       "https://zenn.dev/nob193/articles/38b3c50b240f86",
       "https://zenn.dev/isa_memoria/articles/60adeea6896d72",
       "https://zenn.dev/madini_lab/articles/8f33b3998ad14a",
-      "https://zenn.dev/joemike/articles/indie-dev-dunning-management-2026"
+      "https://zenn.dev/joemike/articles/indie-dev-dunning-management-2026",
+      "https://zenn.dev/zmgt362/articles/59d8602b430ffe",
+      "https://zenn.dev/zmgt362/articles/b5352bbb057fc5"
     ],
     "claude": [
-      "https://zenn.dev/iwakicyan/articles/9186573dbe4492",
       "https://zenn.dev/kompasskompass/articles/978aa6d163ba66",
       "https://zenn.dev/linkedge/articles/27c38cdd9bedc6",
       "https://zenn.dev/evolink/articles/00f9722c05272e",
@@ -538,7 +537,8 @@
       "https://zenn.dev/taroh_7/articles/2026-04-20-claude-skill-notion-management",
       "https://zenn.dev/momozaki/articles/a388ba7e43749a",
       "https://zenn.dev/zoetaka38/articles/409d4c89fc78a5",
-      "https://zenn.dev/nob193/articles/38b3c50b240f86"
+      "https://zenn.dev/nob193/articles/38b3c50b240f86",
+      "https://zenn.dev/zephel01/articles/ef9765424ad875"
     ],
     "flutter": [
       "https://zenn.dev/ihasq/articles/5274d5e0001c7d",
