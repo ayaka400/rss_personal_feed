@@ -1,7 +1,6 @@
 {
   "qiita": {
     "ai": [
-      "https://qiita.com/kai_kou/items/f93f9e95c357edaa51b6",
       "https://qiita.com/tt_and_tk/items/84d886b7d916627e8b88",
       "https://qiita.com/keikyufun/items/d827383095eef69bb66c",
       "https://qiita.com/kodak_diary/items/f1a296a5c66eff533ed1",
@@ -50,7 +49,8 @@
       "https://qiita.com/umtt/items/44468c01df8fe450e9ac",
       "https://qiita.com/xujfcn/items/9e252328bac486ab4b25",
       "https://qiita.com/liv_bloom/items/cb2cd33c6e1d70d2baa1",
-      "https://qiita.com/dialog-riku/items/7de7491f865264269759"
+      "https://qiita.com/dialog-riku/items/7de7491f865264269759",
+      "https://qiita.com/Tomo27/items/dfae28f117c1cf1aa72b"
     ],
     "python": [
       "https://qiita.com/Wakako19972899/items/70850b175b65b98b0c14",
@@ -385,7 +385,6 @@
       "https://zenn.dev/satoh_y_0323/articles/0954fd57390aeb"
     ],
     "aws": [
-      "https://zenn.dev/tosshi/articles/21df66f8c90e9f",
       "https://zenn.dev/ytaniyamadev/articles/675e14b2c2e88f",
       "https://zenn.dev/dress_code/articles/aws-batch-fair-share",
       "https://zenn.dev/zoetaka38/articles/6bd23b24d6aeff",
@@ -434,7 +433,8 @@
       "https://zenn.dev/aws_japan/articles/35e76df16e02b4",
       "https://zenn.dev/aa_taka/articles/f6586cf2537b7a",
       "https://zenn.dev/hisa_tech_2973/articles/01301b1c7e597b",
-      "https://zenn.dev/akkodis_jp/articles/289c07064e8cea"
+      "https://zenn.dev/akkodis_jp/articles/289c07064e8cea",
+      "https://zenn.dev/rsugi/articles/9039bf10184c46"
     ],
     "個人開発": [
       "https://zenn.dev/hiyokoko/articles/6760a592c63bc5",
