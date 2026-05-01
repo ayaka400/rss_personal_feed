@@ -1,7 +1,6 @@
 {
   "qiita": {
     "ai": [
-      "https://qiita.com/trailfusion_ai/items/2c16b4392bf8c7f79ac3",
       "https://qiita.com/xiji2646/items/be89c0563bf05787d066",
       "https://qiita.com/ogaryo/items/b7888afe4806c1e8bdff",
       "https://qiita.com/ukun3/items/9dd0716df0267719a460",
@@ -50,7 +49,8 @@
       "https://qiita.com/hakumai-senshi/items/d2e8c8c308af50d9e10a",
       "https://qiita.com/Tadashi_Kudo/items/e0484a0f800b5dca4665",
       "https://qiita.com/zooko/items/7df68e195efdc58e1a40",
-      "https://qiita.com/tikomo/items/622576f0225d1b3c67c4"
+      "https://qiita.com/tikomo/items/622576f0225d1b3c67c4",
+      "https://qiita.com/umtt/items/44468c01df8fe450e9ac"
     ],
     "python": [
       "https://qiita.com/asoventure/items/3f8bd197c8febefa4ed5",
@@ -105,7 +105,6 @@
       "https://qiita.com/1206-1204-777/items/dcc5cb9e120962fee41c"
     ],
     "aws": [
-      "https://qiita.com/keitakei777/items/ac90fa42b85d6741b719",
       "https://qiita.com/techi-hira/items/b12996e570fc9fa6462a",
       "https://qiita.com/XYZXYZXYZ/items/ef1664aa69e85604840e",
       "https://qiita.com/takeda_h/items/89201d196e3f68ba3044",
@@ -154,7 +153,8 @@
       "https://qiita.com/tyamon/items/453bc48cb25a64c6231e",
       "https://qiita.com/Nika_Rulie/items/cbd1df195641c1c886ae",
       "https://qiita.com/daishi0543/items/bd6885d6072175417504",
-      "https://qiita.com/twswj815/items/0d10b63e0e0228681db6"
+      "https://qiita.com/twswj815/items/0d10b63e0e0228681db6",
+      "https://qiita.com/mtoyoda/items/7841f91fc78664ca99a2"
     ],
     "個人開発": [
       "https://qiita.com/zmgt362/items/ede0f565d3ec3aea869e",
@@ -280,9 +280,6 @@
   },
   "zenn": {
     "ai": [
-      "https://zenn.dev/intage_tech/articles/art016_google_next_report",
-      "https://zenn.dev/aircloset/articles/4c5f49f89db19f",
-      "https://zenn.dev/matsukenn_am/articles/cad975f423eb15",
       "https://zenn.dev/qryuu/articles/b9518f5209c1b2",
       "https://zenn.dev/ojt/articles/claude-code-token-cost-monitoring",
       "https://zenn.dev/geeknees/articles/dc49480af6b726",
@@ -329,19 +326,12 @@
       "https://zenn.dev/reodesuxz/articles/81a4a47a405b98",
       "https://zenn.dev/mecharhythm/articles/d07d9d01f105f5",
       "https://zenn.dev/aiandao/articles/karpathy-vibe-coding-agentic-engineering-20260501",
-      "https://zenn.dev/yamitake/articles/rtk-token-killer-introduction"
+      "https://zenn.dev/yamitake/articles/rtk-token-killer-introduction",
+      "https://zenn.dev/ohmyladykk/articles/e074f19b8163f1",
+      "https://zenn.dev/hrmtz/articles/hook-prose-retreat-bias",
+      "https://zenn.dev/flinters_blog/articles/35fe7a8afce19c"
     ],
     "python": [
-      "https://zenn.dev/zoetaka38/articles/82c630d860462f",
-      "https://zenn.dev/ai_jidoka_lab/articles/zenn_bot_basics_20260425",
-      "https://zenn.dev/datajournal1/articles/644baf7894be9c",
-      "https://zenn.dev/techquant/articles/external-api-silent-breakage",
-      "https://zenn.dev/agdexai/articles/deepseek-v4-agents-guide-2026",
-      "https://zenn.dev/wasurenamemo/articles/8a862cefc3f28e",
-      "https://zenn.dev/si_thu_tun/articles/2f9412db6ec017",
-      "https://zenn.dev/tamgo_tech/articles/04b54481b10fd7",
-      "https://zenn.dev/0h_n0/articles/fdf05c90ae9035",
-      "https://zenn.dev/qwerewq/articles/596dc78990dced",
       "https://zenn.dev/kenimo49/articles/code-graph-refactoring-priority",
       "https://zenn.dev/cool_crocus678/articles/tokyo-daytime-population-visualize",
       "https://zenn.dev/cool_crocus678/articles/tokyo-daytime-population-preprocess",
@@ -381,7 +371,17 @@
       "https://zenn.dev/siruru18/articles/d399b2d8863658",
       "https://zenn.dev/0h_n0/articles/b9a0f33be2f0ac",
       "https://zenn.dev/comp_lab/articles/tsp-benchmark",
-      "https://zenn.dev/zoetaka38/articles/84241a9e4d6c25"
+      "https://zenn.dev/zoetaka38/articles/84241a9e4d6c25",
+      "https://zenn.dev/mojya/articles/964724219009cc",
+      "https://zenn.dev/taito_ichinose/articles/ichinose-post-4486",
+      "https://zenn.dev/taito_ichinose/articles/ichinose-post-4444",
+      "https://zenn.dev/taroh_7/articles/2026-04-20-claude-skill-notion-management",
+      "https://zenn.dev/zoetaka38/articles/409d4c89fc78a5",
+      "https://zenn.dev/zenn_aqua/articles/d6d8651bda567b",
+      "https://zenn.dev/rhythmcan/articles/d51252b15388e8",
+      "https://zenn.dev/datajournal1/articles/c3803ef7b775ac",
+      "https://zenn.dev/jp_cypress/articles/543f49e904eee1",
+      "https://zenn.dev/yukionodera/articles/datadog-apm-python-instrumentation"
     ],
     "aws": [
       "https://zenn.dev/nttdata_tech/articles/3d738d0aaff9db",
@@ -436,7 +436,6 @@
       "https://zenn.dev/masa1990/articles/claude-code-amazon-bedrock"
     ],
     "個人開発": [
-      "https://zenn.dev/jun_a/articles/c6bfbff18bccdc",
       "https://zenn.dev/kompasskompass/articles/978aa6d163ba66",
       "https://zenn.dev/si_thu_tun/articles/2f9412db6ec017",
       "https://zenn.dev/hiyokoko/articles/6760a592c63bc5",
@@ -485,18 +484,10 @@
       "https://zenn.dev/secure_auto_lab/articles/wedding-it-13-data-analysis",
       "https://zenn.dev/ykiki/articles/3d03600c89f3d5",
       "https://zenn.dev/x_metronome/articles/52c4a1ee804e8a",
-      "https://zenn.dev/nob193/articles/38b3c50b240f86"
+      "https://zenn.dev/nob193/articles/38b3c50b240f86",
+      "https://zenn.dev/isa_memoria/articles/60adeea6896d72"
     ],
     "claude": [
-      "https://zenn.dev/purple_matsu1/articles/20260424-anthropic-skill-creator",
-      "https://zenn.dev/matsutake_prgrm/articles/zenn-github-setup-with-claude-code",
-      "https://zenn.dev/zoetaka38/articles/7a4bc15221d1b5",
-      "https://zenn.dev/zoetaka38/articles/55bbc4ce96bce6",
-      "https://zenn.dev/tmo_taka/articles/3525421f19ece1",
-      "https://zenn.dev/zoetaka38/articles/82c630d860462f",
-      "https://zenn.dev/einperience/articles/340854da492ca1",
-      "https://zenn.dev/hrmtz/articles/d3f23e15354089",
-      "https://zenn.dev/kuyan/articles/c886db085ed026",
       "https://zenn.dev/iwakicyan/articles/9186573dbe4492",
       "https://zenn.dev/kompasskompass/articles/978aa6d163ba66",
       "https://zenn.dev/linkedge/articles/27c38cdd9bedc6",
@@ -537,7 +528,16 @@
       "https://zenn.dev/yuzzzn/articles/45626e1ab08e3c",
       "https://zenn.dev/yamitake/articles/rtk-token-killer-introduction",
       "https://zenn.dev/zoetaka38/articles/84241a9e4d6c25",
-      "https://zenn.dev/zoetaka38/articles/5beb5aad3e0e34"
+      "https://zenn.dev/zoetaka38/articles/5beb5aad3e0e34",
+      "https://zenn.dev/belka_dolphin/articles/3102b5b005d2e3",
+      "https://zenn.dev/hnokmim/articles/10ec5626a55918",
+      "https://zenn.dev/taito_ichinose/articles/ichinose-post-4486",
+      "https://zenn.dev/taito_ichinose/articles/ichinose-post-4444",
+      "https://zenn.dev/matsutake_prgrm/articles/claude-code-voice-learning",
+      "https://zenn.dev/taroh_7/articles/2026-04-20-claude-skill-notion-management",
+      "https://zenn.dev/momozaki/articles/a388ba7e43749a",
+      "https://zenn.dev/zoetaka38/articles/409d4c89fc78a5",
+      "https://zenn.dev/nob193/articles/38b3c50b240f86"
     ],
     "flutter": [
       "https://zenn.dev/ihasq/articles/5274d5e0001c7d",
@@ -591,7 +591,8 @@
       "https://zenn.dev/ettomio0518/articles/f34866a77f0564",
       "https://zenn.dev/tonbi_attack/articles/262912f345154c",
       "https://zenn.dev/headwaters/articles/6f0646a34d76cb",
-      "https://zenn.dev/ettomio0518/articles/7ffcf709a1af84"
+      "https://zenn.dev/ettomio0518/articles/7ffcf709a1af84",
+      "https://zenn.dev/seekseep/articles/why-shadcn-ui-with-tailwindcss"
     ],
     "appleintelligence": [
       "https://zenn.dev/arufian/articles/57c23fbdeccb03",
