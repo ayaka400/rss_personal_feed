@@ -1,10 +1,6 @@
 {
   "qiita": {
     "ai": [
-      "https://qiita.com/daisuke-nagata/items/c872cafdfa59dba11191",
-      "https://qiita.com/daishi0543/items/1407d9e3a3227d1e6850",
-      "https://qiita.com/xujfcn/items/188b0ade098d706a3bba",
-      "https://qiita.com/RiriEnu-Lab/items/70954fa8e72837cf79ef",
       "https://qiita.com/mguozhen/items/3728953ef429721c1d83",
       "https://qiita.com/mguozhen/items/874d101aa108efe60c09",
       "https://qiita.com/mguozhen/items/eed96847283f321479f7",
@@ -50,13 +46,13 @@
       "https://qiita.com/syunichisato51/items/ae30c70cdcc87004b0b4",
       "https://qiita.com/akito-0520/items/284d37934245f3ed7b3f",
       "https://qiita.com/masykot582/items/63a4dee4f83aca722f4d",
-      "https://qiita.com/Shawin/items/2fbe7a926ad33ef36302"
+      "https://qiita.com/Shawin/items/2fbe7a926ad33ef36302",
+      "https://qiita.com/bokuno_log/items/df90e3d253cdbe7e8ebe",
+      "https://qiita.com/LemonCake/items/16ecfac5cb54c908b3b5",
+      "https://qiita.com/sharkman-workspace/items/e3f783163d82d6a03bd8",
+      "https://qiita.com/GitKen-Daily/items/2b3cc93707279b0189f4"
     ],
     "python": [
-      "https://qiita.com/yokamak/items/74c133a8f1d3254ae122",
-      "https://qiita.com/kai_kou/items/5fd5b1a67bbc79e35168",
-      "https://qiita.com/yonaka15/items/ab1bb3c72ca2446a9bec",
-      "https://qiita.com/agdexai/items/45a2b971689765b98946",
       "https://qiita.com/agdexai/items/aa9e69908850073855ea",
       "https://qiita.com/CookieBox26/items/81d857b30d670b22f3e0",
       "https://qiita.com/shotakoyama/items/1d1bb534c52969431b51",
@@ -102,7 +98,11 @@
       "https://qiita.com/embermaverick05/items/a67465b981a0947dd287",
       "https://qiita.com/JUMP_IN/items/35bcdb08ab713d82b7c1",
       "https://qiita.com/mistudio0902/items/131ebe451298274d270c",
-      "https://qiita.com/ponfreelance/items/1cc645f424991c833ca7"
+      "https://qiita.com/ponfreelance/items/1cc645f424991c833ca7",
+      "https://qiita.com/FukuharaYohei/items/6aabcccf701b6d918022",
+      "https://qiita.com/yokamak/items/a6532a3b219edc02969d",
+      "https://qiita.com/vast-cow/items/832f7bb29139049567f1",
+      "https://qiita.com/sugiyama404/items/ee65406307f1362b843f"
     ],
     "aws": [
       "https://qiita.com/ktdatascience/items/d3fe01f989f30eded781",
@@ -144,7 +144,11 @@
       "https://qiita.com/Nishi17/items/665d43dbf03d5a993d12",
       "https://qiita.com/aoiku/items/aef8fbafb9ee1651c36e",
       "https://qiita.com/Aratabiz/items/a95f93b0e69072c687ef",
-      "https://qiita.com/TechSpace-engineer/items/679ee20010dc7e1edb55"
+      "https://qiita.com/TechSpace-engineer/items/679ee20010dc7e1edb55",
+      "https://qiita.com/CoboMemo/items/408e01a62d4318af307c",
+      "https://qiita.com/KuwadaKouhei/items/ff2079839e7426d77ec0",
+      "https://qiita.com/w118g1135/items/44e11ec9bd7884bdebcc",
+      "https://qiita.com/sugiyama404/items/ee65406307f1362b843f"
     ],
     "個人開発": [
       "https://qiita.com/hiyokoko/items/47da0e4b909ba56cdae7",
@@ -187,7 +191,10 @@
       "https://qiita.com/ettomio0518/items/8904060b6e7e3fe98387",
       "https://qiita.com/akito-0520/items/284d37934245f3ed7b3f",
       "https://qiita.com/ponfreelance/items/1cc645f424991c833ca7",
-      "https://qiita.com/taka96k/items/f803d87993869a7b0cc3"
+      "https://qiita.com/taka96k/items/f803d87993869a7b0cc3",
+      "https://qiita.com/doc_lab/items/dd63fb76f1a57526bd1b",
+      "https://qiita.com/Tueno-96/items/020dba6b275adaa3a18d",
+      "https://qiita.com/hiyokoko/items/e205407d0b57dcaf2830"
     ],
     "claude": [
       "https://qiita.com/ktdatascience/items/1decf8d4ec633a82258f",
@@ -226,7 +233,9 @@
       "https://qiita.com/trailfusion_ai/items/c8604bc73aac4b12d5c4",
       "https://qiita.com/sescore/items/66180512020fbce1bf8b",
       "https://qiita.com/tai0921/items/56a300c550af093313f1",
-      "https://qiita.com/syunichisato51/items/ae30c70cdcc87004b0b4"
+      "https://qiita.com/syunichisato51/items/ae30c70cdcc87004b0b4",
+      "https://qiita.com/bokuno_log/items/df90e3d253cdbe7e8ebe",
+      "https://qiita.com/LemonCake/items/16ecfac5cb54c908b3b5"
     ],
     "flutter": [
       "https://qiita.com/tkosei2003/items/e192d4769dd55905e436",
