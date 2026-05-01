@@ -1,10 +1,6 @@
 {
   "qiita": {
     "ai": [
-      "https://qiita.com/degudegu2510/items/554e4a4a058f8473f7d9",
-      "https://qiita.com/ai-8tb-cc/items/f7065ccd100c66d3e41a",
-      "https://qiita.com/katsuyaueda/items/a43d7311205677f12422",
-      "https://qiita.com/Katayama_Studio/items/946d4d5e77baa49981c7",
       "https://qiita.com/trailfusion_ai/items/2c16b4392bf8c7f79ac3",
       "https://qiita.com/xiji2646/items/be89c0563bf05787d066",
       "https://qiita.com/ogaryo/items/b7888afe4806c1e8bdff",
@@ -50,11 +46,13 @@
       "https://qiita.com/lumichy/items/0252c195b4d0df797592",
       "https://qiita.com/mistudio0902/items/d8a3ad069d61e597a427",
       "https://qiita.com/caribou_hy/items/500abca6158b37251fe3",
-      "https://qiita.com/tikomo/items/34293380c761abef60f9"
+      "https://qiita.com/tikomo/items/34293380c761abef60f9",
+      "https://qiita.com/hakumai-senshi/items/d2e8c8c308af50d9e10a",
+      "https://qiita.com/Tadashi_Kudo/items/e0484a0f800b5dca4665",
+      "https://qiita.com/zooko/items/7df68e195efdc58e1a40",
+      "https://qiita.com/tikomo/items/622576f0225d1b3c67c4"
     ],
     "python": [
-      "https://qiita.com/AI-Japan-Index/items/d24ec0e82a4386cbed25",
-      "https://qiita.com/wangfajie/items/65a1e3c9a94fe5f47659",
       "https://qiita.com/asoventure/items/3f8bd197c8febefa4ed5",
       "https://qiita.com/Wakako19972899/items/70850b175b65b98b0c14",
       "https://qiita.com/Yudon66/items/9d2c8e6507f917db5158",
@@ -102,11 +100,11 @@
       "https://qiita.com/hello_tokyo/items/718d707bc6623d66d7af",
       "https://qiita.com/vast-cow/items/fdcdc7ac7a6bfd3906b8",
       "https://qiita.com/bizposan/items/73f0d62d666211714a73",
-      "https://qiita.com/bizposan/items/581877eb3c82789fdec5"
+      "https://qiita.com/bizposan/items/581877eb3c82789fdec5",
+      "https://qiita.com/vortex8192/items/35ce0a46e953547a8326",
+      "https://qiita.com/1206-1204-777/items/dcc5cb9e120962fee41c"
     ],
     "aws": [
-      "https://qiita.com/kamihork/items/55a3a493b8f7510d12c2",
-      "https://qiita.com/keitakei777/items/22f87c1a266c815e1fe3",
       "https://qiita.com/keitakei777/items/ac90fa42b85d6741b719",
       "https://qiita.com/techi-hira/items/b12996e570fc9fa6462a",
       "https://qiita.com/XYZXYZXYZ/items/ef1664aa69e85604840e",
@@ -154,12 +152,11 @@
       "https://qiita.com/nasuvitz/items/4e9a1b62025d7d3ba460",
       "https://qiita.com/jus1730/items/db56324467803ae8af53",
       "https://qiita.com/tyamon/items/453bc48cb25a64c6231e",
-      "https://qiita.com/Nika_Rulie/items/cbd1df195641c1c886ae"
+      "https://qiita.com/Nika_Rulie/items/cbd1df195641c1c886ae",
+      "https://qiita.com/daishi0543/items/bd6885d6072175417504",
+      "https://qiita.com/twswj815/items/0d10b63e0e0228681db6"
     ],
     "個人開発": [
-      "https://qiita.com/dev-rabbit-mkt/items/2d84229cd62b38314ac9",
-      "https://qiita.com/ryome/items/450a4cf0901152ea8676",
-      "https://qiita.com/wlcmty/items/74dd59fd56a917d090e6",
       "https://qiita.com/zmgt362/items/ede0f565d3ec3aea869e",
       "https://qiita.com/DevMasatoman/items/6952b802fe570d78ce0c",
       "https://qiita.com/ettomio0518/items/3d9ada81f95a922e1c55",
@@ -206,7 +203,10 @@
       "https://qiita.com/Engineer_PePe/items/e9c69a48358b132c829a",
       "https://qiita.com/Retro-Maid/items/c45b8cebb686862d84ec",
       "https://qiita.com/toriaiapp/items/6322f6c1326d22efc5e8",
-      "https://qiita.com/caribou_hy/items/500abca6158b37251fe3"
+      "https://qiita.com/caribou_hy/items/500abca6158b37251fe3",
+      "https://qiita.com/ethanjamescolez/items/36232a60ca207177245d",
+      "https://qiita.com/toriaiapp/items/3bca8ba4bbf7aa845e76",
+      "https://qiita.com/1206-1204-777/items/dcc5cb9e120962fee41c"
     ],
     "claude": [
       "https://qiita.com/ktdatascience/items/1decf8d4ec633a82258f",
@@ -256,7 +256,8 @@
       "https://qiita.com/akiyu0901/items/e19a83be8fb2e243f702",
       "https://qiita.com/shoheihagiwara/items/9019c65117e7867fad21",
       "https://qiita.com/taroh_7/items/4309f1f2f7e1dd3db7b9",
-      "https://qiita.com/Haneoka/items/39224ba31e796b7b25f0"
+      "https://qiita.com/Haneoka/items/39224ba31e796b7b25f0",
+      "https://qiita.com/Tadashi_Kudo/items/e0484a0f800b5dca4665"
     ],
     "flutter": [
       "https://qiita.com/tkosei2003/items/e192d4769dd55905e436",
@@ -279,26 +280,6 @@
   },
   "zenn": {
     "ai": [
-      "https://zenn.dev/isa_memoria/articles/742e5d4f846969",
-      "https://zenn.dev/shoya_goto/articles/mcp-server-from-scratch",
-      "https://zenn.dev/factory_dx_eng/articles/dx-causal-map",
-      "https://zenn.dev/kodak_diary/articles/06d61496b4e5da",
-      "https://zenn.dev/tigerone1945/articles/e0f4fcba591fb2",
-      "https://zenn.dev/hrmtz/articles/27b2f5ff51f197",
-      "https://zenn.dev/chimao222/articles/ai-dev-devin-2-2-dena-20260430",
-      "https://zenn.dev/53able/articles/38ad3dc3c034e4",
-      "https://zenn.dev/leading_ai/articles/b7401e12d5220b",
-      "https://zenn.dev/mecharhythm/articles/dde20a7d085506",
-      "https://zenn.dev/yukikato/articles/enterprise-ai-aws-vs-azure",
-      "https://zenn.dev/cscloud_blog/articles/72c9da375ab87c",
-      "https://zenn.dev/greensmile/articles/07e8bd73e34d82",
-      "https://zenn.dev/ohmyladykk/articles/e074f19b8163f1",
-      "https://zenn.dev/hrmtz/articles/hook-prose-retreat-bias",
-      "https://zenn.dev/flinters_blog/articles/35fe7a8afce19c",
-      "https://zenn.dev/kajungbang/articles/89e3f06f76c23d",
-      "https://zenn.dev/dantarg/articles/responsible-ai-to-responsibility-pathway",
-      "https://zenn.dev/beeeegle/books/1353d739f6c538",
-      "https://zenn.dev/shin_agent/articles/claude-discovery-2026-04-20",
       "https://zenn.dev/intage_tech/articles/art016_google_next_report",
       "https://zenn.dev/aircloset/articles/4c5f49f89db19f",
       "https://zenn.dev/matsukenn_am/articles/cad975f423eb15",
@@ -328,7 +309,27 @@
       "https://zenn.dev/aiandao/articles/software-fundamentals-with-ai-20260501",
       "https://zenn.dev/playpark/articles/claude-code-skills-design-patterns",
       "https://zenn.dev/poclab_techblog/articles/what_is_molecular_discriptor",
-      "https://zenn.dev/irukasoft/articles/fb1d8fee99853d"
+      "https://zenn.dev/irukasoft/articles/fb1d8fee99853d",
+      "https://zenn.dev/hanav1ye/books/note2zenn-project",
+      "https://zenn.dev/sonicgarden/articles/claude-code-custom-rules-part1",
+      "https://zenn.dev/ryoitabashi/articles/744397718965f6",
+      "https://zenn.dev/satoh_y_0323/articles/0954fd57390aeb",
+      "https://zenn.dev/tomokusaba/articles/a1c9f42d6b8e30",
+      "https://zenn.dev/yurukusa/articles/d3b2752ebddf65",
+      "https://zenn.dev/belka_dolphin/articles/3102b5b005d2e3",
+      "https://zenn.dev/komlock_lab/articles/stripe-sessions-2026",
+      "https://zenn.dev/longbow/articles/20260501_notebooklm_slide",
+      "https://zenn.dev/lumichy/articles/deepseek-v4-pricing-cache-2026",
+      "https://zenn.dev/ai_japan_index/articles/df512e302fad69",
+      "https://zenn.dev/zoetaka38/articles/409d4c89fc78a5",
+      "https://zenn.dev/yuzzzn/articles/45626e1ab08e3c",
+      "https://zenn.dev/seekseep/articles/why-shadcn-ui-with-tailwindcss",
+      "https://zenn.dev/kazukiogushi/articles/b843fc78203295",
+      "https://zenn.dev/shooh/articles/2a2e275379e527",
+      "https://zenn.dev/reodesuxz/articles/81a4a47a405b98",
+      "https://zenn.dev/mecharhythm/articles/d07d9d01f105f5",
+      "https://zenn.dev/aiandao/articles/karpathy-vibe-coding-agentic-engineering-20260501",
+      "https://zenn.dev/yamitake/articles/rtk-token-killer-introduction"
     ],
     "python": [
       "https://zenn.dev/zoetaka38/articles/82c630d860462f",
@@ -435,15 +436,6 @@
       "https://zenn.dev/masa1990/articles/claude-code-amazon-bedrock"
     ],
     "個人開発": [
-      "https://zenn.dev/hiyokoko/articles/320ec8b79cc5cd",
-      "https://zenn.dev/ettomio0518/articles/f9f849f6d8beca",
-      "https://zenn.dev/naoto24kawa/articles/20260413-claude-code-verification-5-patterns",
-      "https://zenn.dev/ze1ny/articles/skills-to-saas",
-      "https://zenn.dev/asobu/articles/7ca55745e0ff8f",
-      "https://zenn.dev/devken/articles/kakubase-why-i-built-it",
-      "https://zenn.dev/taketsuyo/articles/2aee83dc26f46d",
-      "https://zenn.dev/joemike/articles/indie-dev-onboarding-design-2026",
-      "https://zenn.dev/isa_memoria/articles/60adeea6896d72",
       "https://zenn.dev/jun_a/articles/c6bfbff18bccdc",
       "https://zenn.dev/kompasskompass/articles/978aa6d163ba66",
       "https://zenn.dev/si_thu_tun/articles/2f9412db6ec017",
@@ -484,13 +476,18 @@
       "https://zenn.dev/ohmyladykk/articles/e074f19b8163f1",
       "https://zenn.dev/ze1ny/articles/welcome-email-3-traps",
       "https://zenn.dev/ettomio0518/articles/7ffcf709a1af84",
-      "https://zenn.dev/kodo8/articles/90ebb6096dbb78"
+      "https://zenn.dev/kodo8/articles/90ebb6096dbb78",
+      "https://zenn.dev/taketsuyo/articles/5c89a9f0ed5e83",
+      "https://zenn.dev/bandaid/articles/66a6b23fc9ffb9",
+      "https://zenn.dev/sabakan1/articles/57ca07f4b277b4",
+      "https://zenn.dev/nanashiai/articles/c34d499a8396e3",
+      "https://zenn.dev/mojya/articles/964724219009cc",
+      "https://zenn.dev/secure_auto_lab/articles/wedding-it-13-data-analysis",
+      "https://zenn.dev/ykiki/articles/3d03600c89f3d5",
+      "https://zenn.dev/x_metronome/articles/52c4a1ee804e8a",
+      "https://zenn.dev/nob193/articles/38b3c50b240f86"
     ],
     "claude": [
-      "https://zenn.dev/shomitei/articles/692ea5367ee455",
-      "https://zenn.dev/shinyay/books/getting-started-with-tokens",
-      "https://zenn.dev/shinyay/books/getting-started-with-tokens-en",
-      "https://zenn.dev/shintaroamaike/articles/1d73c017285bdc",
       "https://zenn.dev/purple_matsu1/articles/20260424-anthropic-skill-creator",
       "https://zenn.dev/matsutake_prgrm/articles/zenn-github-setup-with-claude-code",
       "https://zenn.dev/zoetaka38/articles/7a4bc15221d1b5",
@@ -536,7 +533,11 @@
       "https://zenn.dev/kajungbang/articles/89e3f06f76c23d",
       "https://zenn.dev/aircloset/articles/4c5f49f89db19f",
       "https://zenn.dev/geeknees/articles/dc49480af6b726",
-      "https://zenn.dev/shirabe_dev/articles/a17f8e40bbb163"
+      "https://zenn.dev/shirabe_dev/articles/a17f8e40bbb163",
+      "https://zenn.dev/yuzzzn/articles/45626e1ab08e3c",
+      "https://zenn.dev/yamitake/articles/rtk-token-killer-introduction",
+      "https://zenn.dev/zoetaka38/articles/84241a9e4d6c25",
+      "https://zenn.dev/zoetaka38/articles/5beb5aad3e0e34"
     ],
     "flutter": [
       "https://zenn.dev/ihasq/articles/5274d5e0001c7d",
