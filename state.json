@@ -1,10 +1,6 @@
 {
   "qiita": {
     "ai": [
-      "https://qiita.com/nozomi2025/items/d81ab9864ca166096f49",
-      "https://qiita.com/whitemarshall/items/91f549849e3cfa86d455",
-      "https://qiita.com/yuki-y15/items/ede3ae1c99d947c6a4e2",
-      "https://qiita.com/MarcyMarcy/items/6ba7496936ca7ed36f24",
       "https://qiita.com/daisuke-nagata/items/c872cafdfa59dba11191",
       "https://qiita.com/daishi0543/items/1407d9e3a3227d1e6850",
       "https://qiita.com/xujfcn/items/188b0ade098d706a3bba",
@@ -50,10 +46,13 @@
       "https://qiita.com/kodak_diary/items/a927c4c8be2be43325f0",
       "https://qiita.com/Aratabiz/items/a95f93b0e69072c687ef",
       "https://qiita.com/daisuke-nagata/items/2a840292dd6132c4f178",
-      "https://qiita.com/mistudio0902/items/131ebe451298274d270c"
+      "https://qiita.com/mistudio0902/items/131ebe451298274d270c",
+      "https://qiita.com/syunichisato51/items/ae30c70cdcc87004b0b4",
+      "https://qiita.com/akito-0520/items/284d37934245f3ed7b3f",
+      "https://qiita.com/masykot582/items/63a4dee4f83aca722f4d",
+      "https://qiita.com/Shawin/items/2fbe7a926ad33ef36302"
     ],
     "python": [
-      "https://qiita.com/m1_studyman/items/2856deee7b963610f241",
       "https://qiita.com/yokamak/items/74c133a8f1d3254ae122",
       "https://qiita.com/kai_kou/items/5fd5b1a67bbc79e35168",
       "https://qiita.com/yonaka15/items/ab1bb3c72ca2446a9bec",
@@ -102,7 +101,8 @@
       "https://qiita.com/faunsu/items/4dc4dfdf9974fbb95eaf",
       "https://qiita.com/embermaverick05/items/a67465b981a0947dd287",
       "https://qiita.com/JUMP_IN/items/35bcdb08ab713d82b7c1",
-      "https://qiita.com/mistudio0902/items/131ebe451298274d270c"
+      "https://qiita.com/mistudio0902/items/131ebe451298274d270c",
+      "https://qiita.com/ponfreelance/items/1cc645f424991c833ca7"
     ],
     "aws": [
       "https://qiita.com/ktdatascience/items/d3fe01f989f30eded781",
@@ -143,7 +143,8 @@
       "https://qiita.com/shii__zuk2/items/5136f104d6184e8852a3",
       "https://qiita.com/Nishi17/items/665d43dbf03d5a993d12",
       "https://qiita.com/aoiku/items/aef8fbafb9ee1651c36e",
-      "https://qiita.com/Aratabiz/items/a95f93b0e69072c687ef"
+      "https://qiita.com/Aratabiz/items/a95f93b0e69072c687ef",
+      "https://qiita.com/TechSpace-engineer/items/679ee20010dc7e1edb55"
     ],
     "個人開発": [
       "https://qiita.com/hiyokoko/items/47da0e4b909ba56cdae7",
@@ -183,7 +184,10 @@
       "https://qiita.com/MY_1217/items/d136b3e241f90530fc07",
       "https://qiita.com/dev-rabbit-mkt/items/d9efb3b39933511636d3",
       "https://qiita.com/DevMasatoman/items/434d395d1a40ef971b44",
-      "https://qiita.com/ettomio0518/items/8904060b6e7e3fe98387"
+      "https://qiita.com/ettomio0518/items/8904060b6e7e3fe98387",
+      "https://qiita.com/akito-0520/items/284d37934245f3ed7b3f",
+      "https://qiita.com/ponfreelance/items/1cc645f424991c833ca7",
+      "https://qiita.com/taka96k/items/f803d87993869a7b0cc3"
     ],
     "claude": [
       "https://qiita.com/ktdatascience/items/1decf8d4ec633a82258f",
@@ -221,7 +225,8 @@
       "https://qiita.com/toarusyakaijin/items/08191883db601b89b2c5",
       "https://qiita.com/trailfusion_ai/items/c8604bc73aac4b12d5c4",
       "https://qiita.com/sescore/items/66180512020fbce1bf8b",
-      "https://qiita.com/tai0921/items/56a300c550af093313f1"
+      "https://qiita.com/tai0921/items/56a300c550af093313f1",
+      "https://qiita.com/syunichisato51/items/ae30c70cdcc87004b0b4"
     ],
     "flutter": [
       "https://qiita.com/tkosei2003/items/e192d4769dd55905e436",
@@ -294,7 +299,6 @@
       "https://zenn.dev/greensmile/articles/07e8bd73e34d82"
     ],
     "python": [
-      "https://zenn.dev/strixai/articles/bf846b91372412",
       "https://zenn.dev/wasurenamemo/articles/e7b8331cf77e8a",
       "https://zenn.dev/haruhiro1020/articles/b5d73357a4b417",
       "https://zenn.dev/aklzo/articles/0c48026d8a3c50",
@@ -343,7 +347,8 @@
       "https://zenn.dev/pincolo/articles/c0a3cbc1249388",
       "https://zenn.dev/sway/articles/ai_product_sleepswitcher",
       "https://zenn.dev/kohmaruworks358/articles/physics-gnn-rollout-stabilization-ddm",
-      "https://zenn.dev/masafuro/articles/6016102112305f"
+      "https://zenn.dev/masafuro/articles/6016102112305f",
+      "https://zenn.dev/shirabe_dev/articles/a17f8e40bbb163"
     ],
     "aws": [
       "https://zenn.dev/maroon_54321/articles/259fd273c91f4f",
