@@ -1,9 +1,6 @@
 {
   "qiita": {
     "ai": [
-      "https://qiita.com/keikyufun/items/d827383095eef69bb66c",
-      "https://qiita.com/kodak_diary/items/f1a296a5c66eff533ed1",
-      "https://qiita.com/origami_goldeen/items/1e0db5ab465d34566073",
       "https://qiita.com/hibiki_hangai/items/341a5c52a810b3d0b7e4",
       "https://qiita.com/shii__zuk2/items/5136f104d6184e8852a3",
       "https://qiita.com/Kaguya_25/items/90f4a039fcc48b102cae",
@@ -50,7 +47,10 @@
       "https://qiita.com/liv_bloom/items/cb2cd33c6e1d70d2baa1",
       "https://qiita.com/dialog-riku/items/7de7491f865264269759",
       "https://qiita.com/Tomo27/items/dfae28f117c1cf1aa72b",
-      "https://qiita.com/Tadashi_Kudo/items/1da2d3c108fcc3be10f6"
+      "https://qiita.com/Tadashi_Kudo/items/1da2d3c108fcc3be10f6",
+      "https://qiita.com/imp555sti/items/cad2ee950fd23a229890",
+      "https://qiita.com/engchina/items/42835a8b00ac3739a0cf",
+      "https://qiita.com/moha0918_/items/e3ddb3764b70912ae6c5"
     ],
     "python": [
       "https://qiita.com/Wakako19972899/items/70850b175b65b98b0c14",
@@ -157,7 +157,6 @@
       "https://qiita.com/donghyun95/items/08a81a712befcb593d7e"
     ],
     "個人開発": [
-      "https://qiita.com/KuwadaKouhei/items/47e0c2e453b8a0245cf6",
       "https://qiita.com/ocean6954/items/86bb60f23719deed683f",
       "https://qiita.com/yoshiototora/items/59c794ee526122f8b616",
       "https://qiita.com/hiyokoko/items/425e58e947eb26754b51",
@@ -206,11 +205,10 @@
       "https://qiita.com/DevMasatoman/items/f83963fd91e93f9bd3e4",
       "https://qiita.com/totetero/items/64a49366600b015a88a3",
       "https://qiita.com/doc_lab/items/e1f6d4c9c231b9085d5a",
-      "https://qiita.com/dev-rabbit-mkt/items/398536f7fab490ad2ebc"
+      "https://qiita.com/dev-rabbit-mkt/items/398536f7fab490ad2ebc",
+      "https://qiita.com/sakutto-panda/items/05f1b717851e909d6c71"
     ],
     "claude": [
-      "https://qiita.com/ktdatascience/items/1decf8d4ec633a82258f",
-      "https://qiita.com/daisuke-nagata/items/c0eefa24a467f839e559",
       "https://qiita.com/daisuke-nagata/items/beb8c1841cbba4051b24",
       "https://qiita.com/daisuke-nagata/items/a80ef3fd991a93052b76",
       "https://qiita.com/tai0921/items/2357bab3f947da66634e",
@@ -258,7 +256,9 @@
       "https://qiita.com/taroh_7/items/4309f1f2f7e1dd3db7b9",
       "https://qiita.com/Haneoka/items/39224ba31e796b7b25f0",
       "https://qiita.com/Tadashi_Kudo/items/e0484a0f800b5dca4665",
-      "https://qiita.com/dialog-riku/items/7de7491f865264269759"
+      "https://qiita.com/dialog-riku/items/7de7491f865264269759",
+      "https://qiita.com/dynamite_jeyms/items/3ad8e65734add0aec31f",
+      "https://qiita.com/moha0918_/items/e3ddb3764b70912ae6c5"
     ],
     "flutter": [
       "https://qiita.com/tkosei2003/items/e192d4769dd55905e436",
