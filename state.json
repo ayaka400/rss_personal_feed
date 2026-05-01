@@ -1,8 +1,6 @@
 {
   "qiita": {
     "ai": [
-      "https://qiita.com/xiji2646/items/be89c0563bf05787d066",
-      "https://qiita.com/ogaryo/items/b7888afe4806c1e8bdff",
       "https://qiita.com/ukun3/items/9dd0716df0267719a460",
       "https://qiita.com/kai_kou/items/f93f9e95c357edaa51b6",
       "https://qiita.com/tt_and_tk/items/84d886b7d916627e8b88",
@@ -50,10 +48,11 @@
       "https://qiita.com/Tadashi_Kudo/items/e0484a0f800b5dca4665",
       "https://qiita.com/zooko/items/7df68e195efdc58e1a40",
       "https://qiita.com/tikomo/items/622576f0225d1b3c67c4",
-      "https://qiita.com/umtt/items/44468c01df8fe450e9ac"
+      "https://qiita.com/umtt/items/44468c01df8fe450e9ac",
+      "https://qiita.com/xujfcn/items/9e252328bac486ab4b25",
+      "https://qiita.com/liv_bloom/items/cb2cd33c6e1d70d2baa1"
     ],
     "python": [
-      "https://qiita.com/asoventure/items/3f8bd197c8febefa4ed5",
       "https://qiita.com/Wakako19972899/items/70850b175b65b98b0c14",
       "https://qiita.com/Yudon66/items/9d2c8e6507f917db5158",
       "https://qiita.com/Jackylammmm/items/40a4baf5fc706ead38b9",
@@ -102,7 +101,8 @@
       "https://qiita.com/bizposan/items/73f0d62d666211714a73",
       "https://qiita.com/bizposan/items/581877eb3c82789fdec5",
       "https://qiita.com/vortex8192/items/35ce0a46e953547a8326",
-      "https://qiita.com/1206-1204-777/items/dcc5cb9e120962fee41c"
+      "https://qiita.com/1206-1204-777/items/dcc5cb9e120962fee41c",
+      "https://qiita.com/xujfcn/items/9e252328bac486ab4b25"
     ],
     "aws": [
       "https://qiita.com/techi-hira/items/b12996e570fc9fa6462a",
@@ -157,7 +157,6 @@
       "https://qiita.com/mtoyoda/items/7841f91fc78664ca99a2"
     ],
     "個人開発": [
-      "https://qiita.com/zmgt362/items/ede0f565d3ec3aea869e",
       "https://qiita.com/DevMasatoman/items/6952b802fe570d78ce0c",
       "https://qiita.com/ettomio0518/items/3d9ada81f95a922e1c55",
       "https://qiita.com/emptybaba/items/1d1adf298820d78f1e61",
@@ -206,7 +205,8 @@
       "https://qiita.com/caribou_hy/items/500abca6158b37251fe3",
       "https://qiita.com/ethanjamescolez/items/36232a60ca207177245d",
       "https://qiita.com/toriaiapp/items/3bca8ba4bbf7aa845e76",
-      "https://qiita.com/1206-1204-777/items/dcc5cb9e120962fee41c"
+      "https://qiita.com/1206-1204-777/items/dcc5cb9e120962fee41c",
+      "https://qiita.com/DevMasatoman/items/f83963fd91e93f9bd3e4"
     ],
     "claude": [
       "https://qiita.com/ktdatascience/items/1decf8d4ec633a82258f",
@@ -280,10 +280,6 @@
   },
   "zenn": {
     "ai": [
-      "https://zenn.dev/qryuu/articles/b9518f5209c1b2",
-      "https://zenn.dev/ojt/articles/claude-code-token-cost-monitoring",
-      "https://zenn.dev/geeknees/articles/dc49480af6b726",
-      "https://zenn.dev/nekonotte/articles/318f553c606b95",
       "https://zenn.dev/nattosystem_jp/articles/07cedad82a2081",
       "https://zenn.dev/nyanmaru/articles/7b2e1342a5126b",
       "https://zenn.dev/haboshi/articles/ai-coding-runtime-design",
@@ -329,11 +325,13 @@
       "https://zenn.dev/yamitake/articles/rtk-token-killer-introduction",
       "https://zenn.dev/ohmyladykk/articles/e074f19b8163f1",
       "https://zenn.dev/hrmtz/articles/hook-prose-retreat-bias",
-      "https://zenn.dev/flinters_blog/articles/35fe7a8afce19c"
+      "https://zenn.dev/flinters_blog/articles/35fe7a8afce19c",
+      "https://zenn.dev/hvala/articles/fce6df4b8fd970",
+      "https://zenn.dev/matsukenn_am/articles/24facb19a3e620",
+      "https://zenn.dev/ryu_takatsukasa/books/ae6557e79c6aaf",
+      "https://zenn.dev/dataheroes/articles/20260502_snowflake_2026q1"
     ],
     "python": [
-      "https://zenn.dev/kenimo49/articles/code-graph-refactoring-priority",
-      "https://zenn.dev/cool_crocus678/articles/tokyo-daytime-population-visualize",
       "https://zenn.dev/cool_crocus678/articles/tokyo-daytime-population-preprocess",
       "https://zenn.dev/cool_crocus678/articles/tokyo-daytime-population-hypothesis",
       "https://zenn.dev/seoi/books/4ed4f5e8dcd089",
@@ -381,13 +379,11 @@
       "https://zenn.dev/rhythmcan/articles/d51252b15388e8",
       "https://zenn.dev/datajournal1/articles/c3803ef7b775ac",
       "https://zenn.dev/jp_cypress/articles/543f49e904eee1",
-      "https://zenn.dev/yukionodera/articles/datadog-apm-python-instrumentation"
+      "https://zenn.dev/yukionodera/articles/datadog-apm-python-instrumentation",
+      "https://zenn.dev/hvala/articles/fce6df4b8fd970",
+      "https://zenn.dev/satoh_y_0323/articles/0954fd57390aeb"
     ],
     "aws": [
-      "https://zenn.dev/nttdata_tech/articles/3d738d0aaff9db",
-      "https://zenn.dev/tokium_dev/articles/aurora-postgresql-clog-error",
-      "https://zenn.dev/pdata_analytics/articles/4786ebc41f73a4",
-      "https://zenn.dev/philosophum/articles/27b59ef416227a",
       "https://zenn.dev/tosshi/articles/21df66f8c90e9f",
       "https://zenn.dev/ytaniyamadev/articles/675e14b2c2e88f",
       "https://zenn.dev/dress_code/articles/aws-batch-fair-share",
@@ -433,11 +429,13 @@
       "https://zenn.dev/tsmtyana/articles/289c07064e8cea",
       "https://zenn.dev/koracloud/articles/f620210ec508c7",
       "https://zenn.dev/acntechjp/articles/5f74eae4a39250",
-      "https://zenn.dev/masa1990/articles/claude-code-amazon-bedrock"
+      "https://zenn.dev/masa1990/articles/claude-code-amazon-bedrock",
+      "https://zenn.dev/aws_japan/articles/35e76df16e02b4",
+      "https://zenn.dev/aa_taka/articles/f6586cf2537b7a",
+      "https://zenn.dev/hisa_tech_2973/articles/01301b1c7e597b",
+      "https://zenn.dev/akkodis_jp/articles/289c07064e8cea"
     ],
     "個人開発": [
-      "https://zenn.dev/kompasskompass/articles/978aa6d163ba66",
-      "https://zenn.dev/si_thu_tun/articles/2f9412db6ec017",
       "https://zenn.dev/hiyokoko/articles/6760a592c63bc5",
       "https://zenn.dev/asobu/articles/40ba7f1989950d",
       "https://zenn.dev/taketsuyo/articles/36ba7a8efbd202",
@@ -485,7 +483,9 @@
       "https://zenn.dev/ykiki/articles/3d03600c89f3d5",
       "https://zenn.dev/x_metronome/articles/52c4a1ee804e8a",
       "https://zenn.dev/nob193/articles/38b3c50b240f86",
-      "https://zenn.dev/isa_memoria/articles/60adeea6896d72"
+      "https://zenn.dev/isa_memoria/articles/60adeea6896d72",
+      "https://zenn.dev/madini_lab/articles/8f33b3998ad14a",
+      "https://zenn.dev/joemike/articles/indie-dev-dunning-management-2026"
     ],
     "claude": [
       "https://zenn.dev/iwakicyan/articles/9186573dbe4492",
