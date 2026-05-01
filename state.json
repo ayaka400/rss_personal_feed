@@ -1,10 +1,6 @@
 {
   "qiita": {
     "ai": [
-      "https://qiita.com/Tadashi_Kudo/items/ce29e76f94d3a0b64dac",
-      "https://qiita.com/ishisaka/items/7df880cd82612ffd1c41",
-      "https://qiita.com/moha0918_/items/6241bfa89543f382f375",
-      "https://qiita.com/umbreon-nu/items/0991052b91c3698fd4f5",
       "https://qiita.com/Eclaw/items/aa8ed5d472b29d4b87a2",
       "https://qiita.com/n11-Ryoma/items/f80077c864aab827324b",
       "https://qiita.com/KuwadaKouhei/items/47e0c2e453b8a0245cf6",
@@ -50,11 +46,13 @@
       "https://qiita.com/nozomi2025/items/4172407c48285b1f4914",
       "https://qiita.com/emi_ndk/items/394b37ee7128c1c908fa",
       "https://qiita.com/kanoririri/items/911bec7193c4a61da28f",
-      "https://qiita.com/rira__/items/db6991d97366ed077ca9"
+      "https://qiita.com/rira__/items/db6991d97366ed077ca9",
+      "https://qiita.com/mguozhen/items/495c0495a26c3b99f05e",
+      "https://qiita.com/goofmint/items/b89d2d7bd190199ec6d9",
+      "https://qiita.com/Mecharhythm/items/00f67f6ca5cd1f612145",
+      "https://qiita.com/mguozhen/items/91115091490062efe631"
     ],
     "python": [
-      "https://qiita.com/nozomi2025/items/f2be0badc4456fbf9ca1",
-      "https://qiita.com/Enegent/items/d64a36c013c7e8daecd9",
       "https://qiita.com/xujfcn/items/188b0ade098d706a3bba",
       "https://qiita.com/Elmo2358/items/8a3ed1d422d0cce98bb5",
       "https://qiita.com/Elmo2358/items/b5011fc492ba46615671",
@@ -102,7 +100,9 @@
       "https://qiita.com/sugiyama404/items/ee65406307f1362b843f",
       "https://qiita.com/mineraru/items/ba936dbb2b357914144d",
       "https://qiita.com/platoronical/items/9981670a903dd252a9be",
-      "https://qiita.com/KuwadaKouhei/items/403921944a4bb1ceb18d"
+      "https://qiita.com/KuwadaKouhei/items/403921944a4bb1ceb18d",
+      "https://qiita.com/yokamak/items/c29a5b471bcb8eda24e6",
+      "https://qiita.com/yukionodera_hello/items/b4e126f7df37bbfe3ec9"
     ],
     "aws": [
       "https://qiita.com/ktdatascience/items/d3fe01f989f30eded781",
@@ -150,7 +150,11 @@
       "https://qiita.com/w118g1135/items/44e11ec9bd7884bdebcc",
       "https://qiita.com/sugiyama404/items/ee65406307f1362b843f",
       "https://qiita.com/sen-ltd/items/91d68620b095920f3327",
-      "https://qiita.com/donghyun95/items/ba7c66a51e24e4571b0f"
+      "https://qiita.com/donghyun95/items/ba7c66a51e24e4571b0f",
+      "https://qiita.com/mzkdev404/items/0194b99278bdac4f0a45",
+      "https://qiita.com/XYZXYZXYZ/items/8c7def3014e82d39bed1",
+      "https://qiita.com/kokiJ0000/items/518c627d6ebbfd927898",
+      "https://qiita.com/ennagara128/items/be9f1432f23c6c6211e0"
     ],
     "個人開発": [
       "https://qiita.com/hiyokoko/items/47da0e4b909ba56cdae7",
@@ -198,7 +202,11 @@
       "https://qiita.com/Tueno-96/items/020dba6b275adaa3a18d",
       "https://qiita.com/hiyokoko/items/e205407d0b57dcaf2830",
       "https://qiita.com/platoronical/items/9981670a903dd252a9be",
-      "https://qiita.com/t-tonton/items/c6edc83224329b2aaab9"
+      "https://qiita.com/t-tonton/items/c6edc83224329b2aaab9",
+      "https://qiita.com/yoshiototora/items/80a0621a6c77b23dd0e1",
+      "https://qiita.com/Mecharhythm/items/00f67f6ca5cd1f612145",
+      "https://qiita.com/udon_ds/items/789c1881c542b3241f26",
+      "https://qiita.com/mmiyajima2@github/items/8a09177d457a50ea18fb"
     ],
     "claude": [
       "https://qiita.com/ktdatascience/items/1decf8d4ec633a82258f",
