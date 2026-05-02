@@ -1,7 +1,7 @@
 # RSS Personal Feed
 
 QiitaおよびZennの新着記事をSlackに自動通知するシステムです。
-GitHub Actionsで1時間ごとに実行されます。
+GitHub Actionsで1日3回（7:00 / 12:00 / 18:00 JST）実行されます。
 
 ## ディレクトリ構成
 
@@ -35,14 +35,16 @@ cd rss-personal-feed
       "key": "qiita",
       "label": "Qiita",
       "feed_url": "https://qiita.com/tags/{topic}/feed",
-      "message": "Qiitaの「{topic}」に新着記事があります\n{url}",
+      "topic_url": "https://qiita.com/tags/{topic}",
+      "message": "Qiita：「{topic}」に新着記事があります\n*{title}*\n{url}\n\n「{topic}」に関するその他の記事はこちらからチェック\n{topic_url}",
       "topics": ["python", "typescript"]
     },
     {
       "key": "zenn",
       "label": "Zenn",
       "feed_url": "https://zenn.dev/topics/{topic}/feed",
-      "message": "Zennの「{topic}」に新着記事があります\n{url}",
+      "topic_url": "https://zenn.dev/topics/{topic}",
+      "message": "Zenn：「{topic}」に新着記事があります\n*{title}*\n{url}\n\n「{topic}」に関するその他の記事はこちらからチェック\n{topic_url}",
       "topics": ["python", "typescript"]
     }
   ]
@@ -78,7 +80,7 @@ python src/main.py
 
 | 項目 | 内容 |
 |------|------|
-| 実行間隔 | 1時間ごと（GitHub Actions のスケジュール） |
+| 実行間隔 | 1日3回・7:00 / 12:00 / 18:00 JST（GitHub Actions のスケジュール） |
 | 差分管理 | `state.json` に既読 URL を保存 |
 | 保持上限 | ユーザーごとに最新50件 |
 | 冪等性 | 同一記事の二重送信なし |
@@ -87,6 +89,10 @@ python src/main.py
 ## Slack通知フォーマット
 
 ```
-Qiitaに新着記事があります
+Qiita：「python」に新着記事があります
+*記事タイトル*
 https://qiita.com/...
+
+「python」に関するその他の記事はこちらからチェック
+https://qiita.com/tags/python
 ```
