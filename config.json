@@ -4,14 +4,16 @@
       "key": "qiita",
       "label": "Qiita",
       "feed_url": "https://qiita.com/tags/{topic}/feed",
-      "message": "Qiita：「{topic}」に新着記事があります\n*{title}*\n{url}",
+      "topic_url": "https://qiita.com/tags/{topic}",
+      "message": "Qiita：「{topic}」に新着記事があります\n*{title}*\n{url}\n\n「{topic}」に関するその他の記事はこちらからチェック\n{topic_url}",
       "topics": ["ai", "python", "aws", "個人開発", "claude", "flutter", "ui"]
     },
     {
       "key": "zenn",
       "label": "Zenn",
       "feed_url": "https://zenn.dev/topics/{topic}/feed",
-      "message": "Zenn：「{topic}」に新着記事があります\n*{title}*\n{url}",
+      "topic_url": "https://zenn.dev/topics/{topic}",
+      "message": "Zenn：「{topic}」に新着記事があります\n*{title}*\n{url}\n\n「{topic}」に関するその他の記事はこちらからチェック\n{topic_url}",
       "topics": ["ai", "python", "aws", "個人開発", "claude", "flutter", "ui", "appleintelligence"]
     }
   ]
