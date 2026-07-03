@@ -1,7 +1,6 @@
 {
   "qiita": {
     "ai": [
-      "https://qiita.com/Rapls/items/d3a0e7d8f25e89c9bbaa",
       "https://qiita.com/aakan/items/6b44a8ff8285d793e333",
       "https://qiita.com/taimonya/items/7778db3d8493033cd024",
       "https://qiita.com/akira_papa_AI/items/ad46fe7776b8d32669ee",
@@ -50,10 +49,10 @@
       "https://qiita.com/dsflon/items/e5c79a2ddd0ba3325aed",
       "https://qiita.com/fwatanab/items/e2c51c2a783915b275a9",
       "https://qiita.com/aakan/items/eec44d174d1f6c981446",
-      "https://qiita.com/TaichiYamasaki/items/a2884f1fb66a9628c4b7"
+      "https://qiita.com/TaichiYamasaki/items/a2884f1fb66a9628c4b7",
+      "https://qiita.com/AI_MT0_Studio/items/8f896c309107618b7e08"
     ],
     "python": [
-      "https://qiita.com/bacbac/items/93f502ea13af0e2945cd",
       "https://qiita.com/_D_/items/236da00b773f8a1e4e39",
       "https://qiita.com/daikou223/items/1e8ff440f367b5eafac9",
       "https://qiita.com/natsubate/items/2d232c04d889ecbbaa32",
@@ -102,10 +101,10 @@
       "https://qiita.com/takuetsu0089/items/4b1235459492fd2f501f",
       "https://qiita.com/MasatakaMachiya/items/91f5e5785ce1f7e51234",
       "https://qiita.com/Wakako19972899/items/585c83b1ca2f54ba4dbd",
-      "https://qiita.com/skrtk98/items/3f83a67084d3f06b2590"
+      "https://qiita.com/skrtk98/items/3f83a67084d3f06b2590",
+      "https://qiita.com/nona_y/items/071670af3b5ac9194fc0"
     ],
     "aws": [
-      "https://qiita.com/mksamba/items/e52e12a7ca12b852798d",
       "https://qiita.com/80-cloud/items/f094039371ebe1bea1a5",
       "https://qiita.com/hikaru0506/items/3a46fc89d0fa672365c9",
       "https://qiita.com/ryu-ki/items/ed732b6a96a9de136c23",
@@ -154,10 +153,10 @@
       "https://qiita.com/handson-lab/items/0f64044c3c74d699d6b4",
       "https://qiita.com/MasatakaMachiya/items/91f5e5785ce1f7e51234",
       "https://qiita.com/Seria_GovCloud/items/59d5bebef80a4050b44b",
-      "https://qiita.com/nyarusasu22/items/24b40af8614058850248"
+      "https://qiita.com/nyarusasu22/items/24b40af8614058850248",
+      "https://qiita.com/lqqtotzo/items/ffb8c3e5c9b537510029"
     ],
     "個人開発": [
-      "https://qiita.com/Rapls/items/d3a0e7d8f25e89c9bbaa",
       "https://qiita.com/sen-ltd/items/4add2a47c3d3a5b785d6",
       "https://qiita.com/b-track/items/ed94c94918440c210eb5",
       "https://qiita.com/muryodecode/items/9f7d29d90fd0b8dc7fd3",
@@ -206,10 +205,10 @@
       "https://qiita.com/rightcross-ae86/items/a0c4aed187c2c9a3cb8a",
       "https://qiita.com/tuyomori/items/9ffedf05cd056606d90b",
       "https://qiita.com/sakutto-panda/items/d6b1ebb98f26068d90d8",
-      "https://qiita.com/tuyomori/items/70b53f5db6e7aedd8828"
+      "https://qiita.com/tuyomori/items/70b53f5db6e7aedd8828",
+      "https://qiita.com/AI_MT0_Studio/items/8f896c309107618b7e08"
     ],
     "claude": [
-      "https://qiita.com/espritfort_tech/items/46ef7ba626cf1d8d51b7",
       "https://qiita.com/tosimitsu104/items/9777550d469f35057504",
       "https://qiita.com/b-track/items/ed94c94918440c210eb5",
       "https://qiita.com/muryodecode/items/9f7d29d90fd0b8dc7fd3",
@@ -258,7 +257,8 @@
       "https://qiita.com/dsflon/items/e5c79a2ddd0ba3325aed",
       "https://qiita.com/fwatanab/items/e2c51c2a783915b275a9",
       "https://qiita.com/lhjjjk4/items/15143176cf7ea49a348f",
-      "https://qiita.com/ushi_777/items/fef338dbae25cff4895f"
+      "https://qiita.com/ushi_777/items/fef338dbae25cff4895f",
+      "https://qiita.com/AI_MT0_Studio/items/8f896c309107618b7e08"
     ],
     "flutter": [
       "https://qiita.com/KyokoCow/items/572d53e6e3e4152c99ab",
@@ -367,7 +367,6 @@
   },
   "zenn": {
     "ai": [
-      "https://zenn.dev/oneframe/articles/e303aa2bb62e0d",
       "https://zenn.dev/yh007/articles/8893d3c38e5a71",
       "https://zenn.dev/kakeru_tools/articles/zenn-kiji-kakikata",
       "https://zenn.dev/devnestio/articles/devnestio-tool-uuid-generator",
@@ -416,10 +415,10 @@
       "https://zenn.dev/fixstars/articles/what-is-tenstorrent",
       "https://zenn.dev/thegatebreaker/articles/2693dc23291956",
       "https://zenn.dev/jodycraft/articles/13b51c5189ac84",
-      "https://zenn.dev/singularity/articles/mulmoterminal-grid-view"
+      "https://zenn.dev/singularity/articles/mulmoterminal-grid-view",
+      "https://zenn.dev/aoi777/articles/ee459f2a4f9279"
     ],
     "python": [
-      "https://zenn.dev/kyoju_teach/articles/2ada584f2fdac4",
       "https://zenn.dev/aldente/articles/a992d4ce38315f",
       "https://zenn.dev/akaringo55/articles/630a3924de566e",
       "https://zenn.dev/suii0x/articles/e581e5540dfb32",
@@ -468,10 +467,10 @@
       "https://zenn.dev/woodstock_tech/articles/f52920eb164a2c",
       "https://zenn.dev/aiforall/articles/190d715c6dbc71",
       "https://zenn.dev/claute_colo/articles/batch-engine-20260607",
-      "https://zenn.dev/m1no/articles/2026-05-16-claude-code-job-scan"
+      "https://zenn.dev/m1no/articles/2026-05-16-claude-code-job-scan",
+      "https://zenn.dev/techquant/articles/stale-data-gate-upstream"
     ],
     "aws": [
-      "https://zenn.dev/azunyan/articles/0dfab949e3dffa",
       "https://zenn.dev/ogazon/articles/001-nami-dev",
       "https://zenn.dev/canly/articles/cross-account-api-gateway",
       "https://zenn.dev/takada_neko/articles/3b8533bb8deae3",
@@ -520,10 +519,10 @@
       "https://zenn.dev/chanshiro/articles/4c001cd69e2644",
       "https://zenn.dev/sdb_blog/articles/bedrock-agentcore-harness",
       "https://zenn.dev/aa_taka/articles/ab30336db4338b",
-      "https://zenn.dev/dress_code/articles/62524f2e5dbd3c"
+      "https://zenn.dev/dress_code/articles/62524f2e5dbd3c",
+      "https://zenn.dev/cscloud_blog/articles/awssummit2026-report01"
     ],
     "個人開発": [
-      "https://zenn.dev/pokecloudlab/articles/stereoscopic-vision-maker-cloudflare-pages",
       "https://zenn.dev/naoto24kawa/articles/20260612-sprawlens-structural-observation",
       "https://zenn.dev/mitsukida/articles/782e9ebd2198b9",
       "https://zenn.dev/sugaimo/articles/0537c8c16ec8a5",
@@ -572,10 +571,10 @@
       "https://zenn.dev/ohgy/articles/bb3835c6954204",
       "https://zenn.dev/ojyo/articles/c65e89bb6feeea",
       "https://zenn.dev/singularity/articles/mulmoterminal-grid-view",
-      "https://zenn.dev/koma26/articles/16e0f78276a184"
+      "https://zenn.dev/koma26/articles/16e0f78276a184",
+      "https://zenn.dev/naikaku01/articles/2ac9629a5a8feb"
     ],
     "claude": [
-      "https://zenn.dev/tukaponx/articles/249c4384f94442",
       "https://zenn.dev/hakaru/articles/memdream-multi-agent-review-ecosystem",
       "https://zenn.dev/takano2026/articles/fe33d9d1a3f70b",
       "https://zenn.dev/uya0526_design/articles/satellite2_haiku-coaching",
@@ -624,10 +623,10 @@
       "https://zenn.dev/chanshiro/articles/4c001cd69e2644",
       "https://zenn.dev/ojyo/articles/0209116ab6a3fd",
       "https://zenn.dev/ai_worklab/articles/claude-design-review-prompt-0-to-86",
-      "https://zenn.dev/hayua/articles/700aabeba45500"
+      "https://zenn.dev/hayua/articles/700aabeba45500",
+      "https://zenn.dev/masafumi_heijo/articles/claude-model-update-detect-not-apply"
     ],
     "flutter": [
-      "https://zenn.dev/sio_egg/articles/d995905640c7e3",
       "https://zenn.dev/sio_egg/articles/cbaa4b923d154b",
       "https://zenn.dev/izumuzui/articles/ccaa71df1ba11d",
       "https://zenn.dev/moveok/articles/9c57c62df2270a",
@@ -676,7 +675,8 @@
       "https://zenn.dev/gitmame00/articles/86d6de64bc2fd5",
       "https://zenn.dev/hide_yuki/articles/a21dd5ea2af74b",
       "https://zenn.dev/yuya_1205/articles/e4aa6785605610",
-      "https://zenn.dev/yuya_1205/articles/a8b0929d6edadc"
+      "https://zenn.dev/yuya_1205/articles/a8b0929d6edadc",
+      "https://zenn.dev/yuen/articles/fd1d80d944bbb0"
     ],
     "ui": [
       "https://zenn.dev/ghoti/articles/160cdeed3cd7c1",
