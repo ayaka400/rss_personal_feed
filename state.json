@@ -1,7 +1,6 @@
 {
   "qiita": {
     "ai": [
-      "https://qiita.com/yureki_lab/items/2c842bd5ea85ab3ff2ba",
       "https://qiita.com/asayan_mana/items/64cbffa16e943cffa411",
       "https://qiita.com/SGT1231/items/3ff723ad428c6f9a5159",
       "https://qiita.com/aakan/items/009a1159c78e320fe7a3",
@@ -50,10 +49,10 @@
       "https://qiita.com/Xim2jp/items/545056ce2ed716df1d54",
       "https://qiita.com/hiiragisan/items/5ba3b2443b3af9be7399",
       "https://qiita.com/aakan/items/0c26bdd42744f2a15188",
-      "https://qiita.com/ennagara128/items/57f846d28d8b582b7831"
+      "https://qiita.com/ennagara128/items/57f846d28d8b582b7831",
+      "https://qiita.com/AlohaYos/items/c41cb09509b3a21019dd"
     ],
     "python": [
-      "https://qiita.com/shu15511551/items/e6478f26d89f54ce20ae",
       "https://qiita.com/jun1okamura/items/cd42cd761eb70468f87a",
       "https://qiita.com/iceblue/items/8c6b603b4b32814a3466",
       "https://qiita.com/shu15511551/items/5174eab7f78457550335",
@@ -102,10 +101,10 @@
       "https://qiita.com/Exploder-exe/items/d80cc06d8544177be063",
       "https://qiita.com/Anonymous_A/items/6654401097d380010e9a",
       "https://qiita.com/shiorisuimoku/items/41f3ebebd015108505ab",
-      "https://qiita.com/mkuwan/items/dc6089b0dab776b3c3cb"
+      "https://qiita.com/mkuwan/items/dc6089b0dab776b3c3cb",
+      "https://qiita.com/tri-ponte/items/e8fa39e4afac8c0fb8eb"
     ],
     "aws": [
-      "https://qiita.com/minifish33/items/c671b79b5bc0c51239f4",
       "https://qiita.com/mtoyoda/items/29896c57e4bf2b70f2f7",
       "https://qiita.com/minifish33/items/c2b95132a6692874d5f1",
       "https://qiita.com/Veteran/items/c958e1eb8c4d9fb88cc1",
@@ -154,10 +153,10 @@
       "https://qiita.com/ssakita/items/fee908686d2b9f72b30d",
       "https://qiita.com/yakumo_09/items/e3442f0e25976aa73afe",
       "https://qiita.com/hidekko/items/7032081a3468089160e5",
-      "https://qiita.com/lhormace/items/bf8f0cb436420a51ef47"
+      "https://qiita.com/lhormace/items/bf8f0cb436420a51ef47",
+      "https://qiita.com/leomarokun/items/99ff92c38a3067e7a2d2"
     ],
     "個人開発": [
-      "https://qiita.com/sen-ltd/items/f7d0c544c57b4d93fbd8",
       "https://qiita.com/Rapls/items/3da48ea02d3dd6998ae6",
       "https://qiita.com/Pinko-zeevaa/items/0bd2623fb870dce21a03",
       "https://qiita.com/mu-perori/items/8f71fa0d5bc5c31e592f",
@@ -206,10 +205,10 @@
       "https://qiita.com/ogiharadevelopment/items/3986b11ea4522d7839f2",
       "https://qiita.com/teppei19980914/items/8d0ec908a7943725ec98",
       "https://qiita.com/sakutto-panda/items/41f435c5dbbf3d3d07aa",
-      "https://qiita.com/kotaro_ai_lab/items/05ea160654fadfbf16b1"
+      "https://qiita.com/kotaro_ai_lab/items/05ea160654fadfbf16b1",
+      "https://qiita.com/teppei19980914/items/28e7aa5e831d2af992d8"
     ],
     "claude": [
-      "https://qiita.com/moha0918_/items/c8b144e3ba36744b964b",
       "https://qiita.com/eiji-noguchi/items/ad30cd311f083cd269d0",
       "https://qiita.com/shivvvvvv/items/d9f0617a4e46c282d52a",
       "https://qiita.com/ponfreelance/items/8544e858b473bc6a645e",
@@ -258,10 +257,10 @@
       "https://qiita.com/hashito/items/ad1bae2ff9c663515057",
       "https://qiita.com/softbase/items/02d31a86311de0ee962e",
       "https://qiita.com/devex12/items/6d5dab6ec0613afa0c43",
-      "https://qiita.com/Junko-Takahashi-Cloud/items/1dfa7135ddbe4942912c"
+      "https://qiita.com/Junko-Takahashi-Cloud/items/1dfa7135ddbe4942912c",
+      "https://qiita.com/AlohaYos/items/c41cb09509b3a21019dd"
     ],
     "flutter": [
-      "https://qiita.com/Rolandssaka/items/19a8ff82c87c027c51c0",
       "https://qiita.com/pallino1869/items/bedc401920777f7e5946",
       "https://qiita.com/KyokoCow/items/fb4e7819416750bccdb6",
       "https://qiita.com/tonbi_attack/items/dd74b3fdecca8f9afb3f",
@@ -310,7 +309,8 @@
       "https://qiita.com/SRAUFactory/items/94e131180df23bcac1e7",
       "https://qiita.com/Cunninghamclark/items/cb58ec461f5a7c5745ac",
       "https://qiita.com/ma-shiratori/items/608104fe362cb9f5216c",
-      "https://qiita.com/oguzku/items/49db0c0e5a3cbd457c65"
+      "https://qiita.com/oguzku/items/49db0c0e5a3cbd457c65",
+      "https://qiita.com/i-icc/items/f505055cbc13f03b1fd7"
     ],
     "ui": [
       "https://qiita.com/azarasi-3/items/b42d0d76fc7dbf9240ec",
@@ -367,7 +367,6 @@
   },
   "zenn": {
     "ai": [
-      "https://zenn.dev/maskedridersys/articles/1b19f1dc5d570e",
       "https://zenn.dev/aos_standard/articles/8428e44a60d527",
       "https://zenn.dev/coldcola/articles/codex-uncommitted-trap",
       "https://zenn.dev/maigodiary/articles/3489f1ddada5ef",
@@ -416,10 +415,10 @@
       "https://zenn.dev/aidecodelabjp/articles/personal-ai-automation-safety-2026",
       "https://zenn.dev/nobmake/articles/7a34ac4ae4e4ba",
       "https://zenn.dev/naoyabone/articles/98030d12b86b04",
-      "https://zenn.dev/bambampurin/articles/2026-07-28-tech-daily"
+      "https://zenn.dev/bambampurin/articles/2026-07-28-tech-daily",
+      "https://zenn.dev/takotyan00/articles/claude-code-boris-skill"
     ],
     "python": [
-      "https://zenn.dev/ricotiler/articles/keiba-ai-24-top3-portfolio-and-feature-isolation",
       "https://zenn.dev/hkame/articles/zenn-article-agentic-orchestration",
       "https://zenn.dev/pagestone/articles/6e17d8f40a2fbc",
       "https://zenn.dev/qwerewq/articles/f1ffdbb3d5384b",
@@ -468,10 +467,10 @@
       "https://zenn.dev/shakeailab/articles/mobius-strip-unfolding",
       "https://zenn.dev/wasurenamemo/articles/2640d2252c74d4",
       "https://zenn.dev/katamarize/articles/step2-rss-diff-detection",
-      "https://zenn.dev/bambampurin/articles/2026-07-28-tech-daily"
+      "https://zenn.dev/bambampurin/articles/2026-07-28-tech-daily",
+      "https://zenn.dev/yokamak/articles/78a34db840929c"
     ],
     "aws": [
-      "https://zenn.dev/kamegoro/articles/aws-cloudfront-vpc-origins-outage-20260716",
       "https://zenn.dev/zono731/articles/be558f6c53d871",
       "https://zenn.dev/okayuuuuu/articles/2c586378490f10",
       "https://zenn.dev/zer0_infra/articles/5a562ecd6075e0",
@@ -520,10 +519,10 @@
       "https://zenn.dev/the_exile/articles/alb-access-logs-cloudwatch",
       "https://zenn.dev/markreo/articles/8c71401dce0d56",
       "https://zenn.dev/fixu/articles/aurora-mysql-308-to-310-upgrade-guide",
-      "https://zenn.dev/nuance/articles/f60819b85507e2"
+      "https://zenn.dev/nuance/articles/f60819b85507e2",
+      "https://zenn.dev/gami113/articles/20260801-aws-account-management"
     ],
     "個人開発": [
-      "https://zenn.dev/yotti073/articles/spec-driven-claude-code",
       "https://zenn.dev/joinclass/articles/1-10-10-2-ai-200-20260715220005-14258",
       "https://zenn.dev/eurekalabo/articles/why-euthopia-10-the-world",
       "https://zenn.dev/keisukenaito/articles/ghost-cost-basis-rounding",
@@ -572,10 +571,10 @@
       "https://zenn.dev/yumanichan/articles/browser-agent-return-vs-state",
       "https://zenn.dev/blu_wave/articles/voicepeak-epub-media-overlays",
       "https://zenn.dev/triponte/articles/claude-code-hook-enforce-rules",
-      "https://zenn.dev/tanishi_z/articles/jin-local-multi-agent-cli"
+      "https://zenn.dev/tanishi_z/articles/jin-local-multi-agent-cli",
+      "https://zenn.dev/jidoka_lab/articles/claude-code-automation-pitfalls"
     ],
     "claude": [
-      "https://zenn.dev/cloto/books/claude-memory-mcp-server-archive",
       "https://zenn.dev/kotaozaki/articles/meetingai-minutes-automation-2026-07-17",
       "https://zenn.dev/hkame/articles/zenn-article-agentic-orchestration",
       "https://zenn.dev/lingmu/articles/2026-07-18-ai-model-race-integration-showdown",
@@ -624,7 +623,8 @@
       "https://zenn.dev/tmasuyama1114/articles/claude_code_doctor_checkup",
       "https://zenn.dev/doushimasho/articles/8e0ecd0bc7199d",
       "https://zenn.dev/fixu/articles/aurora-mysql-308-to-310-upgrade-guide",
-      "https://zenn.dev/lingmu/articles/2026-08-01-gpt-5-6-price-performance-frontier"
+      "https://zenn.dev/lingmu/articles/2026-08-01-gpt-5-6-price-performance-frontier",
+      "https://zenn.dev/yun_bow/articles/8a162af74f2a55"
     ],
     "flutter": [
       "https://zenn.dev/tk_notes/articles/soundlog-app-store-review",
