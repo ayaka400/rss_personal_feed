@@ -1,7 +1,6 @@
 {
   "qiita": {
     "ai": [
-      "https://qiita.com/aakan/items/63f57111965eff1fd043",
       "https://qiita.com/okssusucha/items/6bf2de765c16771b8f47",
       "https://qiita.com/okssusucha/items/d81ace5b245b8f525f11",
       "https://qiita.com/aakan/items/dab092d0230f7aa0dd5b",
@@ -50,10 +49,10 @@
       "https://qiita.com/GeneLab_999/items/79e098834cd89681894d",
       "https://qiita.com/settembre21/items/c4be7994c4803807983d",
       "https://qiita.com/tanakanekosuke/items/56218c1ca53648cd799c",
-      "https://qiita.com/i_aki0110/items/879c2a556782a5998acb"
+      "https://qiita.com/i_aki0110/items/879c2a556782a5998acb",
+      "https://qiita.com/jqit_suwa/items/dda364cfccd770e110d6"
     ],
     "python": [
-      "https://qiita.com/kenimo49/items/b607f6810651c07dfbc1",
       "https://qiita.com/NKKTechGlobal/items/eab3b881f00aafee9635",
       "https://qiita.com/itaraiguma/items/d0735b54a24e5bf99fbd",
       "https://qiita.com/Rapls/items/035fdca64241adbedfce",
@@ -102,10 +101,10 @@
       "https://qiita.com/GeneLab_999/items/79e098834cd89681894d",
       "https://qiita.com/wk_shiho/items/e5cf14a093be9b957b48",
       "https://qiita.com/choco_monja/items/2e77161ca4503cd183ae",
-      "https://qiita.com/ytsuka015/items/3ab927096de7cb503930"
+      "https://qiita.com/ytsuka015/items/3ab927096de7cb503930",
+      "https://qiita.com/Unknown777hello/items/8b73a8a63145d3c88e6d"
     ],
     "aws": [
-      "https://qiita.com/kkoiwai/items/cfd3788907d4a6485214",
       "https://qiita.com/kooohei/items/b373253c3387c9a73585",
       "https://qiita.com/CheerfulEngineer/items/174b7e48a1467f46c7ed",
       "https://qiita.com/tkazuaki0820/items/2a567d12bb8297a0ef8c",
@@ -154,10 +153,10 @@
       "https://qiita.com/R-You/items/aa678ab95f65a309f146",
       "https://qiita.com/eddylee/items/fd461df04a535b06f64b",
       "https://qiita.com/s_moriyama/items/bd3cd57f2b69f5dccec1",
-      "https://qiita.com/kikuziro/items/f7c27d42c352f6d8bf38"
+      "https://qiita.com/kikuziro/items/f7c27d42c352f6d8bf38",
+      "https://qiita.com/mshr_n17/items/44312904d4bccd67bc42"
     ],
     "個人開発": [
-      "https://qiita.com/bbt-dev/items/bdf7cdafad9053e70900",
       "https://qiita.com/susie000720/items/a5c773ffcb41444dc850",
       "https://qiita.com/itaraiguma/items/d0735b54a24e5bf99fbd",
       "https://qiita.com/sakutto-panda/items/45744d6d1bb41cbcd721",
@@ -206,10 +205,10 @@
       "https://qiita.com/kapsel/items/bd63b8aa576338fbe0b2",
       "https://qiita.com/wakinoza/items/5e2361215ce103cfdc48",
       "https://qiita.com/kapsel/items/cbd698cc6e35b8de7d89",
-      "https://qiita.com/ytsuka015/items/3ab927096de7cb503930"
+      "https://qiita.com/ytsuka015/items/3ab927096de7cb503930",
+      "https://qiita.com/dev_cat222/items/d0ee696866f08f41228c"
     ],
     "claude": [
-      "https://qiita.com/kkoiwai/items/cfd3788907d4a6485214",
       "https://qiita.com/hiro03/items/02cf0e117c2f63a34e18",
       "https://qiita.com/Kosuke0412/items/21fe4833471fe58e9001",
       "https://qiita.com/vcmacky/items/0ff1fd7e7990305677a3",
@@ -258,7 +257,8 @@
       "https://qiita.com/hokutoh/items/97c8838725735c57cf06",
       "https://qiita.com/numekudi/items/624687347de5347c5fae",
       "https://qiita.com/quotidia/items/b8c360f21c7a2f37a744",
-      "https://qiita.com/ha-te/items/06c494ebc392d3113b8a"
+      "https://qiita.com/ha-te/items/06c494ebc392d3113b8a",
+      "https://qiita.com/y-shimano/items/f38d20bc27f464e0e2b4"
     ],
     "flutter": [
       "https://qiita.com/GpAraki/items/22a269f95f26b266e801",
@@ -367,7 +367,6 @@
   },
   "zenn": {
     "ai": [
-      "https://zenn.dev/8845musign/articles/dcbb8ae84eb397",
       "https://zenn.dev/veripsa/articles/graph-engineering-ai-pr-coordination",
       "https://zenn.dev/pdfractal/articles/03e2598665e0c6",
       "https://zenn.dev/pomodoro_naomi/articles/ba50dbb04cdce4",
@@ -416,10 +415,10 @@
       "https://zenn.dev/fukukei23/articles/ai-agent-self-healing-loop",
       "https://zenn.dev/tsutomusaito/books/ai-context-design-guide",
       "https://zenn.dev/sobani_dev/articles/80398658f78418",
-      "https://zenn.dev/mika_and_coco/articles/claude-code-diary-11-pomodoro"
+      "https://zenn.dev/mika_and_coco/articles/claude-code-diary-11-pomodoro",
+      "https://zenn.dev/hirodeath/articles/ai-pixel-character-godot-pipeline"
     ],
     "python": [
-      "https://zenn.dev/noa_senn/articles/python-excel-library-compare",
       "https://zenn.dev/aiqlabs/articles/2494e9a5abf58d",
       "https://zenn.dev/itaraiguma/articles/trend-word-growth-rate-not-count",
       "https://zenn.dev/itdevnote/articles/llm-summary-drop",
@@ -468,10 +467,10 @@
       "https://zenn.dev/fibujrsl/articles/b568dd0210670b",
       "https://zenn.dev/ty1110/articles/bff22120fb166b",
       "https://zenn.dev/shinsei99/articles/llm-pdf-split-gaps",
-      "https://zenn.dev/k_motoki/articles/2b586006426069"
+      "https://zenn.dev/k_motoki/articles/2b586006426069",
+      "https://zenn.dev/watany/articles/893462c326756f"
     ],
     "aws": [
-      "https://zenn.dev/koenokakaku/articles/a2d3c18fa721fa",
       "https://zenn.dev/cloudcut/articles/aws-hidden-costs-5-checkpoints",
       "https://zenn.dev/zono731/articles/c41947880f17f1",
       "https://zenn.dev/parabolaml/articles/c008de3c2707d7",
@@ -520,10 +519,10 @@
       "https://zenn.dev/makichan/articles/f352bb9cf4f0a6",
       "https://zenn.dev/aws_japan/articles/quick-desktop-free",
       "https://zenn.dev/riita10069/articles/cosmos3-driving-video-scene-labeling",
-      "https://zenn.dev/reo_engineer/articles/48926fdcd6c10a"
+      "https://zenn.dev/reo_engineer/articles/48926fdcd6c10a",
+      "https://zenn.dev/team_delta/articles/4957844157d832"
     ],
     "個人開発": [
-      "https://zenn.dev/forweb/articles/fb0943137dc71f",
       "https://zenn.dev/shinyu/articles/58e967fb3b9133",
       "https://zenn.dev/itaraiguma/articles/trend-word-growth-rate-not-count",
       "https://zenn.dev/maru1228/articles/85ade3a16cf5bc",
@@ -572,10 +571,10 @@
       "https://zenn.dev/unidesign/articles/first-time-claude-code-agent",
       "https://zenn.dev/hoshiorange/articles/11-claude-code-cloud-routine-plumbing",
       "https://zenn.dev/youheiokubo/articles/af8b5297e61681",
-      "https://zenn.dev/cosoado/articles/smooth-weighted-round-robin-rotation"
+      "https://zenn.dev/cosoado/articles/smooth-weighted-round-robin-rotation",
+      "https://zenn.dev/ktg/articles/inboxsla-gmail-dom"
     ],
     "claude": [
-      "https://zenn.dev/udm/articles/output-booster-0802",
       "https://zenn.dev/aiqlabs/articles/70370e973d8425",
       "https://zenn.dev/ronkeisha/articles/2da814de658dd2",
       "https://zenn.dev/sora31ai/articles/a633089e436b6e",
@@ -624,7 +623,8 @@
       "https://zenn.dev/caron14/articles/mcp-bigquery-safe-preview",
       "https://zenn.dev/ty1110/articles/bff22120fb166b",
       "https://zenn.dev/m2dw/articles/n8n-ai-cli-loop-conditions",
-      "https://zenn.dev/ma2no4413/articles/mcp-tool-design-csv-argument"
+      "https://zenn.dev/ma2no4413/articles/mcp-tool-design-csv-argument",
+      "https://zenn.dev/k_phoenix/articles/mirairadar-webmcp-launch-story"
     ],
     "flutter": [
       "https://zenn.dev/yuen/articles/393b6b08bd232c",
@@ -679,7 +679,6 @@
       "https://zenn.dev/tamcha/articles/e98d112dbb7cac"
     ],
     "ui": [
-      "https://zenn.dev/shunaibuilder/articles/ai-ui-design-comparison",
       "https://zenn.dev/zozotech/articles/79c6e3cf401e55",
       "https://zenn.dev/shunaibuilder/articles/frontend-ui-api-replace",
       "https://zenn.dev/lnest_knowledge/articles/mcp-apps-verification",
@@ -728,7 +727,8 @@
       "https://zenn.dev/lnkiai/articles/d849d8cd5dace9",
       "https://zenn.dev/volcane/articles/fddf017ce520dc",
       "https://zenn.dev/feedge/articles/highlight-keywords-and-unread-badge-enhancements",
-      "https://zenn.dev/midpt/articles/designing-better-ai-built-web-apps-with-hbd"
+      "https://zenn.dev/midpt/articles/designing-better-ai-built-web-apps-with-hbd",
+      "https://zenn.dev/trust/articles/000e1474b504a0"
     ],
     "appleintelligence": [
       "https://zenn.dev/arufian/articles/57c23fbdeccb03",
